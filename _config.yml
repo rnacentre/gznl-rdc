@@ -10,8 +10,8 @@ title: GZNL-RDC
 email: rnapuzzles@gzlab.ac.cn
 description: > # this means to ignore newlines until "baseurl:"
   GZNL - Respiratory Data Centre: Facilitating Respiratory Disease Research with big data
-baseurl: ""
-url: ""
+baseurl: "gznl-rdc"
+url: "https://www.rnacentre.org/"
 
 include:
   - .htaccess
