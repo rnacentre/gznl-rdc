@@ -1,0 +1,30 @@
+I"‹<div class="row" style="margin-top: 16px;">
+  <div class="col-lg-3 d-flex justify-content-center align-items-center">
+    <p class="text-center"><img src="http://localhost:4000/images/statistics/visit.svg" style="height: 40px; filter: brightness(90%) invert(1);" />
+<b style="font-size:24px;">N Visits</b></p>
+  </div>
+  <!-- /.col-lg-3 -->
+
+  <div class="col-lg-3">
+    <p class="text-center"><img src="http://localhost:4000/images/statistics/database.svg" style="height: 40px; filter: brightness(90%) invert(1);" />
+<b style="font-size:24px;">N Databases</b></p>
+  </div>
+  <!-- /.col-lg-3 -->
+
+  <div class="col-lg-3">
+    <p class="text-center"><img src="http://localhost:4000/images/statistics/document.svg" style="height: 40px; filter: brightness(90%) invert(1);" />
+<b style="font-size:24px;">Data Terms</b></p>
+  </div>
+  <!-- /.col-lg-3 -->
+
+  <div class="col-lg-3">
+    <p class="text-center"><img src="http://localhost:4000/images/statistics/storage.svg" style="height: 40px; filter: brightness(90%) invert(1);" />
+<b style="font-size:24px;">Data Storage</b></p>
+  </div>
+  <!-- /.col-lg-3 -->
+</div>
+<!-- /.row -->
+
+<hr class="featurette-divider" />
+
+:ET

@@ -1,0 +1,2406 @@
+I"-S<h1 id="publications">Publications</h1>
+
+<blockquote>
+  <font size="4">List of all the articles of Ribozyme.<font><br />
+</font></font>
+</blockquote>
+
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
+	<title>Ribozyme publication - export</title>
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
+</head>
+    <style>
+		th {
+        background-color: #0874c4;
+        background-color: #0874c4;
+        background-color: #0874c4;
+        color: rgba(255,255,255,0.9);
+		    cursor: pointer;
+        }
+	</style>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+	<script type="text/javascript">
+
+		$(document).ready(function() {
+			$.noConflict();
+			$('#mytable').DataTable( {
+				dom: 'Bfrtip', 
+				buttons: [
+					'copy', 'csv', 'excel', 'pdf', 'print'
+				]
+				
+			} );
+		} );
+   </script>
+
+<body>
+    <div>
+	  <table id="mytable" class="table table-striped table-bordered" cellspacing="0" width="100%">
+<thead>
+  <tr>
+    <th>Year</th>
+    <th>Author</th>
+    <th>Title</th>
+    <th>Ribozyme name</th>
+    <th>Description</th>
+    <th>Journal</th>
+  </tr>
+</thead>
+  <tr>
+    <td>2004</td>
+    <td>Adams, P. L., M. R. Stahley, A. B. Kosek, J. Wang and S. A. Strobel </td>
+    <td>Crystal structure of a self-splicing group I intron with both exons.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupI.html" target="_blank"><b> Group I self-splicing intron</b></a></td>
+    <td>Crystal structure of <em>Azoarcus</em> group I intron with both exons</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/15175762" target="_blank"><b> Nature 430 (6995): 45-50.</b></a></td>
+  </tr>
+  <tr>
+    <td>2004</td>
+    <td>Guo, F., A. R. Gooding and T. R. Cech </td>
+    <td>Structure of the <em>Tetrahymena</em> ribozyme: base triple sandwich and metal ion at the  active site.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupI.html" target="_blank"><b> Group I self-splicing intron</b></a></td>
+    <td>Crystal structure of an active <em>Tetrahymena</em> ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/15525509" target="_blank"><b> Mol Cell 16 (3): 351-62.</b></a></td>
+  </tr>
+  <tr>
+    <td>2005</td>
+    <td>Golden, B. L., H. Kim and E. Chase </td>
+    <td>Crystal structure of a phage Twort group I ribozyme-product complex.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupI.html" target="_blank"><b> Group I self-splicing intron</b></a></td>
+    <td>Crystal structure of  phage Twort group I ribozyme-product complex</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/15580277" target="_blank"><b> Nat Struct Mol Biol 12 (1): 82-9.</b></a></td>
+  </tr>
+  <tr>
+    <td>2005</td>
+    <td>Stahley, M. R. and S. A. Strobel </td>
+    <td>Structural evidence for a two-metal-ion mechanism of group I intron splicing.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupI.html" target="_blank"><b> Group I self-splicing intron</b></a></td>
+    <td>Crystal structure of a catalytically active <em>Azoarcus</em> group I intron splicing intermediate</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16141079" target="_blank"><b> Science 309 (5740): 1587-90.</b></a></td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>Su, Z., K. Zhang, K. Kappel, S. Li, M. Z. Palo, G. D. Pintilie, R. Rangan, B. Luo, Y. Wei, R. Das and W. Chiu </td>
+    <td>Cryo-EM structures of full-length <em>Tetrahymena</em> ribozyme at 3.1 A resolution.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupI.html" target="_blank"><b> Group I self-splicing intron</b></a></td>
+    <td>Cryo-EM structures of full-length <em>Tetrahymena</em> ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34381213" target="_blank"><b> Nature 596 (7873): 603-607.</b></a></td>
+  </tr>
+  <tr>
+    <td>1989</td>
+    <td>Williamson, C. L., N. M. Desai and J. M. Burke </td>
+    <td>Compensatory mutations demonstrate that P8 and P6 are RNA secondary structure elements important for processing of a group I intron.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupI.html" target="_blank"><b> Group I self-splicing intron</b></a></td>
+    <td>Verify the existence and importance of P6, P8</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/2915927" target="_blank"><b> Nucleic Acids Res 17 (2): 675-89.</b></a></td>
+  </tr>
+  <tr>
+    <td>1989</td>
+    <td>Doudna, J. A., B. P. Cormack and J. W. Szostak </td>
+    <td>RNA structure, not sequence, determines the 5' splice-site specificity of a group I intron.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupI.html" target="_blank"><b> Group I self-splicing intron</b></a></td>
+    <td>Conserved UG is an important recognition element for determining guanosine attack sites</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/2678103" target="_blank"><b> Proc Natl Acad Sci U S A 86 (19): 7402-6.</b></a></td>
+  </tr>
+  <tr>
+    <td>1989</td>
+    <td>Flor, P. J., J. B. Flanegan and T. R. Cech </td>
+    <td>A conserved base pair within helix P4 of the <em>Tetrahymena</em> ribozyme helps to form the tertiary structure required for self-splicing.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupI.html" target="_blank"><b> Group I self-splicing intron</b></a></td>
+    <td>The conserved base pair C109-G212 in P4 contributes to the tertiary structure required for self-splicing</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/2684642" target="_blank"><b> EMBO J 8 (11): 3391-9.</b></a></td>
+  </tr>
+  <tr>
+    <td>1982</td>
+    <td>Kruger, K., P. J. Grabowski, A. J. Zaug, J. Sands, D. E. Gottschling and T. R. Cech </td>
+    <td>Self-splicing RNA: autoexcision and autocyclization of the ribosomal RNA intervening sequence of <em>Tetrahymena</em>.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupI.html" target="_blank"><b> Group I self-splicing intron</b></a></td>
+    <td>Discovery</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/6297754" target="_blank"><b> Cell 31 (1): 147-57.</b></a></td>
+  </tr>
+  <tr>
+    <td>1982</td>
+    <td>Davies, R. W., R. B. Waring, J. A. Ray, T. A. Brown and C. Scazzocchio </td>
+    <td>Making ends meet: a model for RNA splicing in fungal mitochondria.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupI.html" target="_blank"><b> Group I self-splicing intron</b></a></td>
+    <td>Determination of shared secondary structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/6757759" target="_blank"><b> Nature 300 (5894): 719-24.</b></a></td>
+  </tr>
+  <tr>
+    <td>1986</td>
+    <td>Zaug, A. J. and T. R. Cech </td>
+    <td>The intervening sequence RNA of <em>Tetrahymena</em> is an enzyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupI.html" target="_blank"><b> Group I self-splicing intron</b></a></td>
+    <td>The intervening sequence RNA of <em>Tetrahymena</em> is an enzyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/3941911" target="_blank"><b> Science 231 (4737): 470-5.</b></a></td>
+  </tr>
+  <tr>
+    <td>1988</td>
+    <td>Price, J. V. and T. R. Cech </td>
+    <td>Determinants of the 3' splice site for self-splicing of the <em>Tetrahymena</em> pre-rRNA.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupI.html" target="_blank"><b> Group I self-splicing intron</b></a></td>
+    <td>ωG is closely related to the choice of 3' splice site</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/3209068" target="_blank"><b> Genes Dev 2 (11): 1439-47.</b></a></td>
+  </tr>
+  <tr>
+    <td>1990</td>
+    <td>Michel, F. and E. Westhof </td>
+    <td>Modelling of the three-dimensional architecture of group I catalytic introns based on comparative sequence analysis.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupI.html" target="_blank"><b> Group I self-splicing intron</b></a></td>
+    <td>3D models of  group I intron based on comparative sequence analysis</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/2258934" target="_blank"><b> J Mol Biol 216 (3): 585-610.</b></a></td>
+  </tr>
+  <tr>
+    <td>1996</td>
+    <td>Cate, J. H., A. R. Gooding, E. Podell, K. Zhou, B. L. Golden, C. E. Kundrot, T. R. Cech and J. A. Doudna </td>
+    <td>Crystal structure of a group I ribozyme domain: principles of RNA packing.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupI.html" target="_blank"><b> Group I self-splicing intron</b></a></td>
+    <td>Crystal structure of <em>Tetrahymena</em> P4-P6 domain</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/8781224" target="_blank"><b> Science 273 (5282): 1678-85.</b></a></td>
+  </tr>
+  <tr>
+    <td>1998</td>
+    <td>Golden, B. L., A. R. Gooding, E. R. Podell and T. R. Cech </td>
+    <td>A preorganized active site in the crystal structure of the <em>Tetrahymena</em> ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupI.html" target="_blank"><b> Group I self-splicing intron</b></a></td>
+    <td>Crystal structure of an engineered, active <em>Tetrahymena</em> ribozyme at 5.0 Å resolution</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/9841391" target="_blank"><b> Science 282 (5387): 259-64.</b></a></td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>Benz-Moy, T. L. and D. Herschlag </td>
+    <td>Structure-function analysis from the outside in: long-range tertiary contacts in  RNA exhibit distinct catalytic roles.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupI.html" target="_blank"><b> Group I self-splicing intron</b></a></td>
+    <td>Long-range tertiary contacts in RNA exhibit distinct catalytic roles</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/21815635" target="_blank"><b> Biochemistry 50 (40): 8733-55.</b></a></td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>Liu, D., F. A. Thelot, J. A. Piccirilli, M. Liao and P. Yin </td>
+    <td>Sub-3-A cryo-EM structure of RNA enabled by engineered homomeric self-assembly.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupI.html" target="_blank"><b> Group I self-splicing intron</b></a></td>
+    <td><em>Tetrahymena</em> group I intron at 2.98-Å resolution overall (2.85 Å for the core)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/35501384" target="_blank"><b> Nat Methods 19 (5): 576-585.</b></a></td>
+  </tr>
+  <tr>
+    <td>1994</td>
+    <td>Damberger, S. H. and R. R. Gutell </td>
+    <td>A comparative database of group I intron structures.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupI.html" target="_blank"><b> Group I self-splicing intron </b></a></td>
+    <td>Comparative database</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/7937050" target="_blank"><b> Nucleic Acids Res 22 (17): 3508-10.</b></a></td>
+  </tr>
+  <tr>
+    <td>2008</td>
+    <td>Zhou, Y., C. Lu, Q. J. Wu, Y. Wang, Z. T. Sun, J. C. Deng and Y. Zhang </td>
+    <td>GISSD: Group I Intron Sequence and Structure Database.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupI.html" target="_blank"><b> Group I self-splicing intron </b></a></td>
+    <td>Sequence and structure database</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/17942415" target="_blank"><b> Nucleic Acids Res 36 (Database issue): D31-7.</b></a></td>
+  </tr>
+  <tr>
+    <td>2009</td>
+    <td>Vicens, Q. and T. R. Cech </td>
+    <td>A natural ribozyme with 3',5' RNA ligase activity.</td>
+    <td><a href="https://www.ribocentre.org/docs/nature-ribozyme.html" target="_blank"><b>A natural ribozyme with 3',5' RNA ligase activity</b></a></td>
+    <td>Discovery</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/19125157" target="_blank"><b> Nat Chem Biol 5(2): 97-9.</b></a></td>
+  </tr>
+  <tr>
+    <td>2004</td>
+    <td>J. Proudfoot and A. Akoulitchev </td>
+    <td>Autocatalytic RNA cleavage in the human beta-globin pre-mRNA promotes transcription termination.</td>
+    <td><a href="https://www.ribocentre.org/docs/CoTC.html" target="_blank"><b>CoTC ribozyme(Beta-globin co-transcriptional cleavage ribozyme)</b></a></td>
+    <td>Discovery that the CoTC process in the human beta-globin gene involves an RNA self-cleaving activity</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/15565159" target="_blank"><b> Nature 432(7016): 526-530.</b></a></td>
+  </tr>
+  <tr>
+    <td>2006</td>
+    <td>Salehi-Ashtiani, K., A. Luptak, A. Litovchick and J. W. Szostak </td>
+    <td>A genomewide search for ribozymes reveals an HDV-like sequence in the human CPEB3 gene.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV-like.html" target="_blank"><b>CPEB3 ribozyme</b></a></td>
+    <td>A HDV-like sequence in the human CPEB3 gene</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16990549" target="_blank"><b> Science 313 (5794): 1788-92.</b></a></td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>Skilandat, M., M. Rowinska-Zyrek and R. K. Sigel </td>
+    <td>Solution structure and metal ion binding sites of the human CPEB3 ribozyme's P4 domain.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV-like.html" target="_blank"><b>CPEB3 ribozyme</b></a></td>
+    <td>NMR solution structure of CPEB3 ribozyme's P4 domain</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24652468" target="_blank"><b> J Biol Inorg Chem 19 (6): 903-12.</b></a></td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>Skilandat, M., M. Rowinska-Zyrek and R. K. Sigel </td>
+    <td>Secondary structure confirmation and localization of Mg2+ ions in the mammalian CPEB3 ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV-like.html" target="_blank"><b>CPEB3 ribozyme</b></a></td>
+    <td>NMR studies confirm secondary structure and Mg2+ location in CPEB3 ribozyme </td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26966151" target="_blank"><b> RNA 22 (5): 750-63.</b></a></td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>Bendixsen, D. P., T. B. Pollock, G. Peri and E. J. Hayden </td>
+    <td>Experimental Resurrection of Ancestral Mammalian CPEB3 Ribozymes Reveals Deep Functional Conservation.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV-like.html" target="_blank"><b>CPEB3 ribozyme</b></a></td>
+    <td>The functional conservation of CPEB3 ribozyme in mammalian evolution</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33720319" target="_blank"><b> Mol Biol Evol 38 (7): 2843-2853.</b></a></td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>Meyer, M., H. Nielsen, V. Olieric, P. Roblin, S. D. Johansen, E. Westhof and B. Masquida </td>
+    <td>Speciation of a group I intron into a lariat capping ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/LC-ribozyme.html" target="_blank"><b>Lariat capping ribozyme</b></a></td>
+    <td>Crystal structures of the precleavage and postcleavage lariat-capping ribozymes</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24821772" target="_blank"><b> Proc Natl Acad Sci U S A 111(21): 7659-7664.</b></a></td>
+  </tr>
+  <tr>
+    <td>2002</td>
+    <td>Johansen, S., C. Einvik and H. Nielsen </td>
+    <td>DiGIR1 and NaGIR1: naturally occurring group I-like ribozymes with unique core organization and evolved biological role.</td>
+    <td><a href="https://www.ribocentre.org/docs/LC-ribozyme.html" target="_blank"><b>Lariat capping ribozyme</b></a></td>
+    <td>REVIEW</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/12458083" target="_blank"><b> Biochimie 84(9): 905-912.</b></a></td>
+  </tr>
+  <tr>
+    <td>2002</td>
+    <td>Vader, A., S. Johansen and H. Nielsen </td>
+    <td>The group I-like ribozyme DiGIR1 mediates alternative processing of pre-rRNA transcripts in Didymium iridis.</td>
+    <td><a href="https://www.ribocentre.org/docs/LC-ribozyme.html" target="_blank"><b>Lariat capping ribozyme</b></a></td>
+    <td>DiGIR1 mediates alternative processing of pre-rRNA transcripts in Didymium iridis</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/12444968" target="_blank"><b> Eur J Biochem 269(23): 5804-5812.</b></a></td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>Tang, Y., H. Nielsen, B. Masquida, P. P. Gardner and S. D. Johansen </td>
+    <td>Molecular characterization of a new member of the lariat capping twin-ribozyme introns.</td>
+    <td><a href="https://www.ribocentre.org/docs/LC-ribozyme.html" target="_blank"><b>Lariat capping ribozyme</b></a></td>
+    <td>Molecular characterization of a new member of the lariat capping twin-ribozyme introns</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25342998" target="_blank"><b> Mob DNA 5: 25.</b></a></td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>Pietschmann, M., G. Tempel, M. Halladjian, N. Krogh and H. Nielsen </td>
+    <td>Use of a Lariat Capping Ribozyme to Study Cap Function In Vivo.</td>
+    <td><a href="https://www.ribocentre.org/docs/LC-ribozyme.html" target="_blank"><b>Lariat capping ribozyme</b></a></td>
+    <td>Use of a lariat capping ribozyme to study cap function in vivo</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32712925" target="_blank"><b> Methods Mol Biol 2167: 271-285.</b></a></td>
+  </tr>
+  <tr>
+    <td>1994</td>
+    <td>Johansen, S. and V. M. Vogt </td>
+    <td>An intron in the nuclear ribosomal DNA of Didymium iridis codes for a group I ribozyme and a novel ribozyme that cooperate in self-splicing.</td>
+    <td><a href="https://www.ribocentre.org/docs/LC-ribozyme.html" target="_blank"><b>Lariat capping ribozyme</b></a></td>
+    <td>Sequence discovered</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/8124711" target="_blank"><b> Cell 76(4): 725-734.</b></a></td>
+  </tr>
+  <tr>
+    <td>1995</td>
+    <td>Decatur, W. A., C. Einvik, S. Johansen and V. M. Vogt </td>
+    <td>Two group I ribozymes with different functions in a nuclear rDNA intron.</td>
+    <td><a href="https://www.ribocentre.org/docs/LC-ribozyme.html" target="_blank"><b>Lariat capping ribozyme</b></a></td>
+    <td>Catalytic RNA element renamed as the group I-like ribozyme, GIR1</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/7556099" target="_blank"><b> EMBO J 14(18): 4558-4568.</b></a></td>
+  </tr>
+  <tr>
+    <td>2005</td>
+    <td>Nielsen, H., E. Westhof and S. Johansen </td>
+    <td>An mRNA is capped by a 2', 5' lariat catalyzed by a group I-like ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/LC-ribozyme.html" target="_blank"><b>Lariat capping ribozyme</b></a></td>
+    <td>GIR1 makes tiny lariats</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16141078" target="_blank"><b> Science 309(5740): 1584-1587.</b></a></td>
+  </tr>
+  <tr>
+    <td>2008</td>
+    <td>eckert, B., H. Nielsen, C. Einvik, S. D. Johansen, E. Westhof and B. Masquida </td>
+    <td>Molecular modelling of the GIR1 branching ribozyme gives new insight into evolution of structurally related ribozymes.</td>
+    <td><a href="https://www.ribocentre.org/docs/LC-ribozyme.html" target="_blank"><b>Lariat capping ribozyme</b></a></td>
+    <td>Molecular modelling of the GIR1 branching ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/18219270" target="_blank"><b> EMBO J 27(4): 667-678.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Krogh, N., M. Pietschmann, M. Schmid, T. H. Jensen and H. Nielsen </td>
+    <td>Lariat capping as a tool to manipulate the 5' end of individual yeast mRNA species in vivo.</td>
+    <td><a href="https://www.ribocentre.org/docs/LC-ribozyme.html" target="_blank"><b>Lariat capping ribozyme</b></a></td>
+    <td>Lariat capping as a tool to manipulate the 5' end of mRNA</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28159804" target="_blank"><b> RNA 23(5): 683-695.</b></a></td>
+  </tr>
+  <tr>
+    <td>2006</td>
+    <td>Klein, D. and A. Ferré-D'Amaré </td>
+    <td>Structural basis of glmS ribozyme activation by glucosamine-6-phosphate.</td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><b>GlmS ribozyme</b></a></td>
+    <td>Crystal structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16990543" target="_blank"><b> Science (New York, N.Y.) 313(5794): 1752-1756.</b></a></td>
+  </tr>
+  <tr>
+    <td>2007</td>
+    <td>Cochrane, J., S. Lipchock and S. Strobel </td>
+    <td>Structural investigation of the GlmS ribozyme bound to Its catalytic cofactor.</td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><b>GlmS ribozyme</b></a></td>
+    <td>Crystal structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/17196404" target="_blank"><b> Chemistry &amp; biology 14(1): 97-105.</b></a></td>
+  </tr>
+  <tr>
+    <td>2007</td>
+    <td>Klein, D., M. Been and A. Ferré-D'Amaré </td>
+    <td>Essential role of an active-site guanine in glmS ribozyme catalysis.</td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><b>GlmS ribozyme</b></a></td>
+    <td>Essential role of an active-site guanine G40 in glmS ribozyme catalysis</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/17990888" target="_blank"><b> Journal of the American Chemical Society 129(48): 14858-14859.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Schüller, A., D. Matzner, C. Lünse, V. Wittmann, C. Schumacher, S. Unsleber, H. Brötz-Oesterhelt, C. Mayer, G. Bierbaum and G. Mayer </td>
+    <td>Activation of the glmS Ribozyme Confers Bacterial Growth Inhibition.</td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><b>GlmS ribozyme</b></a></td>
+    <td>GlcN6P cofactor play a variety of catalytic roles in glmS ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28012261" target="_blank"><b> Chembiochem : a European journal of chemical biology 18(5): 435-440.</b></a></td>
+  </tr>
+  <tr>
+    <td>2004</td>
+    <td>Winkler, W., A. Nahvi, A. Roth, J. Collins and R. Breaker </td>
+    <td>Control of gene expression by a natural metabolite-responsive ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><b>GlmS ribozyme</b></a></td>
+    <td>Discovery,Secondary structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/15029187" target="_blank"><b> Nature 428(6980): 281-286.</b></a></td>
+  </tr>
+  <tr>
+    <td>2006</td>
+    <td>Soukup, G. </td>
+    <td>Core requirements for glmS ribozyme self-cleavage reveal a putative pseudoknot structure.</td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><b>GlmS ribozyme</b></a></td>
+    <td>Pseudoknot structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16464827" target="_blank"><b> Nucleic acids research 34(3): 968-975.</b></a></td>
+  </tr>
+  <tr>
+    <td>2007</td>
+    <td>Collins, J., I. Irnov, S. Baker and W. Winkler </td>
+    <td>Mechanism of mRNA destabilization by the glmS ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><b>GlmS ribozyme</b></a></td>
+    <td>Mechanism of mRNA destabilization by the glms ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/18079181" target="_blank"><b> Genes &amp; development 21(24): 3356-3368.</b></a></td>
+  </tr>
+  <tr>
+    <td>2009</td>
+    <td>Cochrane, J., S. Lipchock, K. Smith and S. Strobel </td>
+    <td>Structural and chemical basis for glucosamine 6-phosphate binding and activation of the glmS ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><b>GlmS ribozyme</b></a></td>
+    <td>Chemical Mechanism</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/19228039" target="_blank"><b> Biochemistry 48(15): 3239-3246.</b></a></td>
+  </tr>
+  <tr>
+    <td>2010</td>
+    <td>Ferré-D'Amaré, A. </td>
+    <td>The glmS ribozyme: use of a small molecule coenzyme by a gene-regulatory RNA.</td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><b>GlmS ribozyme</b></a></td>
+    <td>Use of a small molecule coenzyme by a gene-regulatory RNA</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/20822574" target="_blank"><b> Quarterly reviews of biophysics 43(4): 423-447.</b></a></td>
+  </tr>
+  <tr>
+    <td>2010</td>
+    <td>Klawuhn, K., J. Jansen, J. Souchek, G. Soukup and J. Soukup </td>
+    <td>Analysis of metal ion dependence in glmS ribozyme self-cleavage and coenzyme binding.</td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><b>GlmS ribozyme</b></a></td>
+    <td>The role of Mg2+ in active sites</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/21108273" target="_blank"><b> Chembiochem : a European journal of chemical biology 11(18): 2567-2571.</b></a></td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>Watson, P. and M. Fedor </td>
+    <td>The glmS riboswitch integrates signals from activating and inhibitory metabolites in vivo.</td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><b>GlmS ribozyme</b></a></td>
+    <td>The glmS riboswitch integrates signals from activating and inhibitory metabolites in vivo</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/21317896" target="_blank"><b> Nature structural &amp; molecular biology 18(3): 359-363.</b></a></td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>McCown, P., A. Roth and R. Breaker </td>
+    <td>An expanded collection and refined consensus model of glmS ribozymes.</td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><b>GlmS ribozyme</b></a></td>
+    <td>An expanded collection and refined consensus model of glmS ribozymes</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/21367971" target="_blank"><b> RNA (New York, N.Y.) 17(4): 728-736.</b></a></td>
+  </tr>
+  <tr>
+    <td>2012</td>
+    <td>Viladoms, J. and M. Fedor </td>
+    <td>The glmS ribozyme cofactor is a general acid-base catalyst.</td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><b>GlmS ribozyme</b></a></td>
+    <td>The glmS ribozyme cofactor is a general acid-base catalyst</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/23113700" target="_blank"><b> Journal of the American Chemical Society 134(46): 19043-19049.</b></a></td>
+  </tr>
+  <tr>
+    <td>2013</td>
+    <td>Lau, M. W. L. and A. R. Ferré-D Amaré</td>
+    <td>An in vitro evolved glmS ribozyme has the wild-type fold but loses coenzyme dependence.</td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><b>GlmS ribozyme</b></a></td>
+    <td>An in vitro evolved glmS ribozyme has the wild-type fold but loses coenzyme dependence</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24096303" target="_blank"><b> Journal of the American Chemical Society 134(46): 19043-19049.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Bingaman, J., S. Zhang, D. Stevens, N. Yennawar, S. Hammes-Schiffer and P. Bevilacqua </td>
+    <td>The GlcN6P cofactor plays multiple catalytic roles in the glmS ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><b>GlmS ribozyme</b></a></td>
+    <td>GlcN6P cofactor play a variety of catalytic roles in glmS ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28192411" target="_blank"><b> Nature chemical biology 13(4): 439-445.</b></a></td>
+  </tr>
+  <tr>
+    <td>2018</td>
+    <td>Cruz-Bustos, T., S. Ramakrishnan, C. Cordeiro, M. Ahmed and R. Docampo </td>
+    <td>A Riboswitch-based Inducible Gene Expression System for Trypanosoma brucei.</td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><b>GlmS ribozyme</b></a></td>
+    <td>The glmS ribozyme could be used as a tool to study essential genes in T. brucei</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/29265590" target="_blank"><b> The Journal of eukaryotic microbiology 65(3): 412-421.</b></a></td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Andreasson, J., A. Savinov, S. Block and W. Greenleaf </td>
+    <td>Comprehensive sequence-to-function mapping of cofactor-dependent RNA catalysis in the glmS ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><b>GlmS ribozyme</b></a></td>
+    <td>Comprehensive sequence-to-function mapping of cofactor-dependent RNA catalysis in the glmS ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32245964" target="_blank"><b> Nature communications 11(1): 1663.</b></a></td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>Traykovska, M., K. Popova and R. Penchovsky </td>
+    <td>Targeting glmS Ribozyme with Chimeric Antisense Oligonucleotides for Antibacterial Drug Development.</td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><b>GlmS ribozyme</b></a></td>
+    <td>The glmS ribozyme is a very suitable target for antibacterial drug development with antisense oligonucleotides</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34734706" target="_blank"><b> ACS synthetic biology 10(11): 3167-3176.</b></a></td>
+  </tr>
+  <tr>
+    <td>1980</td>
+    <td>Halbreich, A., P. Pajot, M. Foucher, C. Grandchamp and P. Slonimski </td>
+    <td>A pathway of cytochrome b mRNA processing in yeast mitochondria: specific splicing steps and an intron-derived circular DNA.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>"Circular" introns were found to splice out from a mitochondrial gene</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/6986990" target="_blank"><b>  Cell 19 (2): 321-9.</b></a></td>
+  </tr>
+  <tr>
+    <td>1982</td>
+    <td>Michel, F., A. Jacquier and B. Dujon </td>
+    <td>Comparison of fungal mitochondrial introns reveals extensive homologies in RNA secondary structure.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>First secondary structure model by comparative sequence analysis</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/6817818" target="_blank"><b>  Biochimie 64 (10): 867-81.</b></a></td>
+  </tr>
+  <tr>
+    <td>1986</td>
+    <td>van der Veen, R., A. C. Arnberg, G. van der Horst, L. Bonen, H. F. Tabak and L. A. Grivell </td>
+    <td>Excised group II introns in yeast mitochondria are lariats and can be formed by self-splicing in vitro.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>Group II introns form a lariat by self-splicing in vivo</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/2417726" target="_blank"><b>  Cell 44 (2): 225-34.</b></a></td>
+  </tr>
+  <tr>
+    <td>1986</td>
+    <td>Peebles, C. L., P. S. Perlman, K. L. Mecklenburg, M. L. Petrillo, J. H. Tabor, K. A. Jarrell and H. L. Cheng </td>
+    <td>A self-splicing RNA excises an intron lariat.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>Group II introns form a lariat by self-splicing in vivo</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/3510741" target="_blank"><b> Cell 44 (2): 213-23.</b></a></td>
+  </tr>
+  <tr>
+    <td>1994</td>
+    <td>Chanfreau, G. and A. Jacquier </td>
+    <td>Catalytic site components common to both splicing steps of a group II intron.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>Common catalytic site to both splicing steps.</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31348888" target="_blank"><b> Cell 178 (3): 612-623.e12.</b></a></td>
+  </tr>
+  <tr>
+    <td>1995</td>
+    <td>Peebles, C. L., M. Zhang, P. S. Perlman and J. S. Franzen </td>
+    <td>Catalytically critical nucleotide in domain 5 of a group II intron.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>Catalytically critical nucleotide in domain 5 </td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/7538669" target="_blank"><b> Proc Natl Acad Sci U S A 92 (10): 4422-6.</b></a></td>
+  </tr>
+  <tr>
+    <td>1995</td>
+    <td>Boulanger, S. C., S. M. Belcher, U. Schmidt, S. D. Dib-Hajj, T. Schmidt and P. S. Perlman </td>
+    <td>Studies of point mutants define three essential paired nucleotides in the domain  5 substructure of a group II intron.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>Three essential paired nucleotides in the domain  5</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/7623838" target="_blank"><b> Mol Cell Biol 15 (8): 4479-88.</b></a></td>
+  </tr>
+  <tr>
+    <td>1996</td>
+    <td>Schmidt, U., M. Podar, U. Stahl and P. S. Perlman </td>
+    <td>Mutations of the two-nucleotide bulge of D5 of a group II intron block splicing in vitro and in vivo: phenotypes and suppressor mutations.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>Two-nucleotide bulge in D5 are important</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/8903346" target="_blank"><b> RNA 2 (11): 1161-72.</b></a></td>
+  </tr>
+  <tr>
+    <td>1996</td>
+    <td>Abramovitz, D. L., R. A. Friedman and A. M. Pyle </td>
+    <td>Catalytic role of 2'-hydroxyl groups within a group II intron active site.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>Eight hydroxyl groups in D5 are the key to activity</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/8596912" target="_blank"><b> Science 271 (5254): 1410-3.</b></a></td>
+  </tr>
+  <tr>
+    <td>1997</td>
+    <td>Costa, M., E. Deme, A. Jacquier and F. Michel </td>
+    <td>Multiple tertiary interactions involving domain II of group II self-splicing introns.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>D2 stabilizes the ribozyme core and controls the location of D6 and branching sites</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/9126835" target="_blank"><b> J Mol Biol 267 (3): 520-36.</b></a></td>
+  </tr>
+  <tr>
+    <td>2000</td>
+    <td>Boudvillain, M., A. de Lencastre and A. M. Pyle </td>
+    <td>A tertiary interaction that links active-site domains to the 5' splice site of a  group II intron.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>Demonstration of tertiary interactions linking the catalytically critical regions of D1 to D5 and anchoring them at the 5' splice site</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10917534" target="_blank"><b> Nature 406 (6793): 315-8.</b></a></td>
+  </tr>
+  <tr>
+    <td>2002</td>
+    <td>Zhang, L. and J. A. Doudna </td>
+    <td>Structural insights into group II intron catalysis and branch-site selection.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>Crystal structures of 70-nucleotide RNAs of yeast ai5γ D5 and D6 (3 Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/11859154" target="_blank"><b> Science 295 (5562): 2084-8.</b></a></td>
+  </tr>
+  <tr>
+    <td>2005</td>
+    <td>Fedorova, O. and A. M. Pyle </td>
+    <td>Linking the group II intron catalytic domains: tertiary contacts and structural features of domain 3.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>D3 is a functional group important for catalytic activity, and the interaction of D3 and D5 promotes catalysis</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16252007" target="_blank"><b> EMBO J 24 (22): 3906-16.</b></a></td>
+  </tr>
+  <tr>
+    <td>2005</td>
+    <td>de Lencastre, A., S. Hamill and A. M. Pyle </td>
+    <td>A single active-site region for a group II intron.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>Single active-site region for group II intron catalysis</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/15980867" target="_blank"><b>  Nat Struct Mol Biol 12 (7): 626-7.</b></a></td>
+  </tr>
+  <tr>
+    <td>2007</td>
+    <td>Fedorova, O. and N. Zingler </td>
+    <td>Group II introns: structure, folding and splicing mechanism.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>Review: splicing mechanism</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/17570818" target="_blank"><b> Biol Chem 388 (7): 665-78.</b></a></td>
+  </tr>
+  <tr>
+    <td>2008</td>
+    <td>Toor, N., K. S. Keating, S. D. Taylor and A. M. Pyle </td>
+    <td>Crystal structure of a self-spliced group II intron.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>The first 3D structure of the <em>Oceanobacillus iheyensis</em> group IIC intron</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/18388288" target="_blank"><b> Science 320 (5872): 77-82.</b></a></td>
+  </tr>
+  <tr>
+    <td>2010</td>
+    <td>Pyle, A. M. </td>
+    <td>The tertiary structure of group II introns: implications for biological function  and evolution.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>Common tertiary structure of the catalytic core</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/20446804" target="_blank"><b> Crit Rev Biochem Mol Biol 45 (3): 215-32.</b></a></td>
+  </tr>
+  <tr>
+    <td>2012</td>
+    <td>Marcia, M. and A. M. Pyle </td>
+    <td>Visualizing group II intron catalysis through the stages of splicing.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>Crystal structures of a group II intron at different stages of catalysis.</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/23101623" target="_blank"><b>  Cell 151 (3): 497-507.</b></a></td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>Robart, A. R., R. T. Chan, J. K. Peters, K. R. Rajashankar and N. Toor </td>
+    <td>Crystal structure of a eukaryotic group II intron lariat.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>Crystal structure of the intronic lariat form of eukaryotic group IIB</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25252982" target="_blank"><b> Nature 514 (7521): 193-7.</b></a></td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>Qu, G., P. S. Kaushal, J. Wang, H. Shigematsu, C. L. Piazza, R. K. Agrawal, M. Belfort and H. W. Wang </td>
+    <td>Structure of a group II intron in complex with its reverse transcriptase.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>Cryo-EM structures of a group Ⅱ intron in complex with its maturase</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27136327" target="_blank"><b>  Nat Struct Mol Biol 23 (6): 549-57.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Zhao, C. and A. M. Pyle </td>
+    <td>Structural Insights into the Mechanism of Group II Intron Splicing.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>Review: Structural insights into the splicing mechanism</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28438387" target="_blank"><b> Trends Biochem Sci 42 (6): 470-482.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Haack, D. B., X. Yan, C. Zhang, J. Hingey, D. Lyumkis, T. S. Baker and N. Toor </td>
+    <td>Cryo-EM Structures of a Group II Intron Reverse Splicing into DNA.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>Cryo-EM structures of a group II intron reverse splicing into DNA</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31348888" target="_blank"><b> Cell 178 (3): 612-623.e12.</b></a></td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Liu, N., X. Dong, C. Hu, J. Zeng, J. Wang, J. Wang, H. W. Wang and M. Belfort </td>
+    <td>Exon and protein positioning in a pre-catalytic group II intron RNP primed for splicing.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
+    <td>Two cryo-EM structures of group II intron RNPs  in their pre-catalytic state</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33021674" target="_blank"><b> Nucleic Acids Res 48 (19): 11185-11198.</b></a></td>
+  </tr>
+  <tr>
+    <td>2002</td>
+    <td>Rupert, P., A. Massey, S. Sigurdsson and A. Ferré-D'Amaré </td>
+    <td>Transition state stabilization by a catalytic RNA.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html" target="_blank"><b>Hairpin ribozyme</b></a></td>
+    <td>Crystal structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/12376595" target="_blank"><b> Science (New York, N.Y.) 298(5597): 1421-1424.</b></a></td>
+  </tr>
+  <tr>
+    <td>2006</td>
+    <td>Salter, J., J. Krucinska, S. Alam, V. Grum-Tokars and J. Wedekind </td>
+    <td>Water in the active site of an all-RNA hairpin ribozyme and effects of Gua8 base variants on the geometry of phosphoryl transfer.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html" target="_blank"><b>Hairpin ribozyme</b></a></td>
+    <td>Crystal structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16411744" target="_blank"><b> Biochemistry 45(3): 686-700.</b></a></td>
+  </tr>
+  <tr>
+    <td>1997</td>
+    <td>Hampel, A. and J. Cowan </td>
+    <td>A unique mechanism for RNA catalysis: the role of metal cofactors in hairpin ribozyme cleavage.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html" target="_blank"><b>Hairpin ribozyme</b></a></td>
+    <td>Chemical Mechanism</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/9263639" target="_blank"><b> Chemistry &amp; biology 4(7): 513-517.</b></a></td>
+  </tr>
+  <tr>
+    <td>1998</td>
+    <td>Shippy, R., A. Siwkowski and A. Hampel </td>
+    <td>Mutational analysis of loops 1 and 5 of the hairpin ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html" target="_blank"><b>Hairpin ribozyme</b></a></td>
+    <td>Loops 1 and 5 of the hairpin ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/9425078" target="_blank"><b> Biochemistry 37(2): 564-570.</b></a></td>
+  </tr>
+  <tr>
+    <td>2001</td>
+    <td>Rupert, P. and A. Ferré-D'Amaré </td>
+    <td>Crystal structure of a hairpin ribozyme-inhibitor complex with implications for catalysis.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html" target="_blank"><b>Hairpin ribozyme</b></a></td>
+    <td>Crystal structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/11298439" target="_blank"><b> Nature 410(6830): 780-786.</b></a></td>
+  </tr>
+  <tr>
+    <td>1986</td>
+    <td>Buzayan, J. M., W. L. Gerlach and G. Bruening </td>
+    <td>Non-enzymatic cleavage and ligation of RNAs complementary to a plant virus satellite RNA.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html" target="_blank"><b>Hairpin ribozyme</b></a></td>
+    <td>Discovery</td>
+    <td><a href="https://www.nature.com/articles/323349a0" target="_blank"><b> Nature.</b></a></td>
+  </tr>
+  <tr>
+    <td>1993</td>
+    <td>Berzal-Herranz, A., S. Joseph, B. Chowrira, S. Butcher and J. Burke </td>
+    <td>Essential nucleotide sequences and secondary structure elements of the hairpin ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html" target="_blank"><b>Hairpin ribozyme</b></a></td>
+    <td>Sequence/Secondary structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/8508779" target="_blank"><b> The EMBO journal 12(6): 2567-2573.</b></a></td>
+  </tr>
+  <tr>
+    <td>2001</td>
+    <td>Pinard, R., K. Hampel, J. Heckman, D. Lambert, P. Chan, F. Major and J. Burke </td>
+    <td>Functional involvement of G8 in the hairpin ribozyme cleavage mechanism.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html" target="_blank"><b>Hairpin ribozyme</b></a></td>
+    <td>Essential role of an active-site G8 in hairpin ribozyme catalysis</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/11707414" target="_blank"><b> The EMBO journal 20(22): 6434-6442.</b></a></td>
+  </tr>
+  <tr>
+    <td>2005</td>
+    <td>Kuzmin, Y., C. Da Costa, J. Cottrell and M. Fedor </td>
+    <td>Role of an active site adenine in hairpin ribozyme catalysis.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html" target="_blank"><b>Hairpin ribozyme</b></a></td>
+    <td>Essential role of an active-site A38 in hairpin ribozyme catalysis</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/15907933" target="_blank"><b> Journal of molecular biology 349(5): 989-1010.</b></a></td>
+  </tr>
+  <tr>
+    <td>2012</td>
+    <td>Kath-Schorr, S., T. Wilson, N. Li, J. Lu, J. Piccirilli and D. Lilley </td>
+    <td>General acid-base catalysis mediated by nucleobases in the hairpin ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html" target="_blank"><b>Hairpin ribozyme</b></a></td>
+    <td>Catalytic mechanism</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/22958171" target="_blank"><b> Journal of the American Chemical Society 134(40): 16717-16724.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Hieronymus, R. and S. Müller </td>
+    <td>Engineering of hairpin ribozyme variants for RNA recombination and splicing.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html" target="_blank"><b>Hairpin ribozyme</b></a></td>
+    <td>Engineering of hairpin ribozyme variants</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30941784" target="_blank"><b> Annals of the New York Academy of Sciences 1447(1): 135-143.</b></a></td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>Song, E., E. Jiménez, H. Lin, K. Le Vay, R. Krishnamurthy and H. Mutschler </td>
+    <td>Prebiotically Plausible RNA Activation Compatible with Ribozyme-Catalyzed Ligation.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html" target="_blank"><b>Hairpin ribozyme</b></a></td>
+    <td>Situ activation of RNA substrates under reaction conditions amenable to catalysis by the hairpin ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33128282" target="_blank"><b> Angewandte Chemie (International ed. in English) 60(6): 2952-2957.</b></a></td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>Weinberg, C., V. Olzog, I. Eckert and Z. Weinberg </td>
+    <td>Identification of over 200-fold more hairpin ribozymes than previously known in diverse circular RNAs.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html" target="_blank"><b>Hairpin ribozyme</b></a></td>
+    <td>Expand the number of natural hairpin ribozymes</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34096583" target="_blank"><b> Nucleic acids research 49(11): 6375-6388.</b></a></td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>Lee, B., U. Neri, C. Oh, P. Simmonds and E. Koonin </td>
+    <td>ViroidDB: a database of viroids and viroid-like circular RNAs.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html" target="_blank"><b>Hairpin ribozyme</b></a></td>
+    <td>ViroidDB: a database of viroids and viroid-like circular RNAs</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34751403" target="_blank"><b> Nucleic acids research 50: D432-D438.</b></a></td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>Hieronymus, R., J. Zhu and S. Müller </td>
+    <td>RNA self-splicing by engineered hairpin ribozyme variants.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html" target="_blank"><b>Hairpin ribozyme</b></a></td>
+    <td>Engineering of hairpin ribozyme variants</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34928378" target="_blank"><b> Nucleic acids research 50(1): 368-377.</b></a></td>
+  </tr>
+  <tr>
+    <td>1994</td>
+    <td>Pley, H. W., K. M. Flaherty and D. B. McKay </td>
+    <td>Three-dimensional structure of a hammerhead ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Crystal structure of type III HHR</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/7969422" target="_blank"><b> Nature 372(6501): 68-74.</b></a></td>
+  </tr>
+  <tr>
+    <td>2008</td>
+    <td>Chi, Y. I., M. Martick, M. Lares, R. Kim, W. G. Scott and S. H. Kim </td>
+    <td>Capturing hammerhead ribozyme structures in action by modulating general base catalysis.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Crystal structure </td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/18834200" target="_blank"><b> PLoS Biol 6(9): e234.</b></a></td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>Schultz, E. P., E. E. Vasquez and W. G. Scott </td>
+    <td>Structural and catalytic effects of an invariant purine substitution in the hammerhead ribozyme: implications for the mechanism of acid-base catalysis.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Specific base catalysis mechanism</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25195740" target="_blank"><b> Acta Crystallogr D Biol Crystallogr 70(Pt 9): 2256-2263.</b></a></td>
+  </tr>
+  <tr>
+    <td>2006</td>
+    <td>Martick, M. and W. G. Scott </td>
+    <td>Tertiary contacts distant from the active site prime a ribozyme for catalysis.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Crystal structure of typeⅠ HHR</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16859740" target="_blank"><b> Cell 126(2): 309-320.</b></a></td>
+  </tr>
+  <tr>
+    <td>2013</td>
+    <td>Anderson, M., E. P. Schultz, M. Martick and W. G. Scott </td>
+    <td>Active-site monovalent cations revealed in a 1.55-Å-resolution hammerhead ribozyme structure.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Crystal structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/23711504" target="_blank"><b> J Mol Biol 425(20): 3790-3798.</b></a></td>
+  </tr>
+  <tr>
+    <td>1986</td>
+    <td>Prody, G. A., J. T. Bakos, J. M. Buzayan, I. R. Schneider and G. Bruening </td>
+    <td>Autolytic Processing of Dimeric Plant Virus Satellite RNA.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Discovery</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/17833317" target="_blank"><b> Science 231(4745): 1577-1580.</b></a></td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>Weinberg, Z., P. B. Kim, T. H. Chen, S. Li, K. A. Harris, C. E. Lünse and R. R. Breaker </td>
+    <td>New classes of self-cleaving ribozymes revealed by comparative genomics analysis.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Discover variants of typeⅠHHR  </td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874" target="_blank"><b> Nat Chem Biol 11(8): 606-610.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Lünse, C. E., Z. Weinberg and R. R. Breaker </td>
+    <td>Numerous small hammerhead ribozyme variants associated with Penelope-like retrotransposons cleave RNA as dimers.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Some variants form dimers to cleave RNA</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27858507" target="_blank"><b> RNA Biol 14(11): 1499-1507.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Ren, A., R. Micura and D. J. Patel </td>
+    <td>Structure-based mechanistic insights into catalysis by small self-cleaving ribozymes.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Catalytic mechanism</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/29107885" target="_blank"><b> Curr Opin Chem Biol 41: 71-83.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Wilson, T. J., Y. Liu, N. S. Li, Q. Dai, J. A. Piccirilli and D. M. J. Lilley </td>
+    <td>Comparison of the Structures and Mechanisms of the Pistol and Hammerhead Ribozymes.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>The structure is similar with the pistol ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31017785" target="_blank"><b> J Am Chem Soc 141(19): 7865-7875.</b></a></td>
+  </tr>
+  <tr>
+    <td>1986</td>
+    <td>Hutchins, C. J., P. D. Rathjen, A. C. Forster and R. H. Symons </td>
+    <td>Self-cleavage of plus and minus RNA transcripts of avocado sunblotch viroid.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Discovery</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/3714492" target="_blank"><b> Nucleic Acids Research 14(9): 3627-3640.</b></a></td>
+  </tr>
+  <tr>
+    <td>1986</td>
+    <td>Hutchins, C. J., P. D. Rathjen, A. C. Forster and R. H. Symons </td>
+    <td>Self-cleavage of plus and minus RNA transcripts of avocado sunblotch viroid.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Secondary structure of type I HHR</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/3714492" target="_blank"><b> Nucleic Acids Research 14(9): 3627-3640.</b></a></td>
+  </tr>
+  <tr>
+    <td>1987</td>
+    <td>Forster, A. C. and R. H. Symons </td>
+    <td>Self-cleavage of plus and minus RNAs of a virusoid and a structural model for the active sites.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Secondary structure of type III HHR</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/2436805" target="_blank"><b> Cell 49(2): 211-220.</b></a></td>
+  </tr>
+  <tr>
+    <td>1991</td>
+    <td>Pabón-Peña, L. M., Y. Zhang and L. M. Epstein </td>
+    <td>Newt satellite 2 transcripts self-cleave by using an extended hammerhead structure.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Internal loops are important</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/1944278" target="_blank"><b> Mol Cell Biol 11(12): 6109-6115.</b></a></td>
+  </tr>
+  <tr>
+    <td>1998</td>
+    <td>Murray, J. B., A. A. Seyhan, N. G. Walter, J. M. Burke and W. G. Scott </td>
+    <td>The hammerhead, hairpin and VS ribozymes are catalytically proficient in monovalent cations alone.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Dense positive charge is critical for catalysis</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/9818150" target="_blank"><b> Chem Biol 5(10): 587-595.</b></a></td>
+  </tr>
+  <tr>
+    <td>2005</td>
+    <td>Han, J. and J. M. Burke </td>
+    <td>Model for general acid-base catalysis by the hammerhead ribozyme: pH-activity relationships of G8 and G12 variants at the putative active site.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>G8 and G12 is critical for catalysis</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/15910000" target="_blank"><b> Biochemistry 44(21): 7864-7870.</b></a></td>
+  </tr>
+  <tr>
+    <td>2005</td>
+    <td>Han, J. and J. M. Burke </td>
+    <td>Model for general acid-base catalysis by the hammerhead ribozyme: pH-activity relationships of G8 and G12 variants at the putative active site.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Catalytic mechanism</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/15910000" target="_blank"><b> Biochemistry 44(21): 7864-7870.</b></a></td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>Jimenez, R. M., E. Delwart and A. Lupták </td>
+    <td>Structure-based search reveals hammerhead ribozymes in the human microbiome.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Secondary structure of type II HHR</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/21257745" target="_blank"><b> J Biol Chem 286(10): 7737-7743.</b></a></td>
+  </tr>
+  <tr>
+    <td>2013</td>
+    <td>Lee, T. S., K. Y. Wong, G. M. Giambasu and D. M. York </td>
+    <td>Bridging the gap between theory and experiment to derive a detailed understanding of hammerhead ribozyme catalysis.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Catalytic mechanism</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24156941" target="_blank"><b> Prog Mol Biol Transl Sci 120: 25-91.</b></a></td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>O'Rourke, S. M., W. Estell and W. G. Scott </td>
+    <td>Minimal Hammerhead Ribozymes with Uncompromised Catalytic Activity.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Trans-Hoogsteen greatly enhances the activity of the minimal hammer ribozyme<br /> &nbsp;&nbsp;</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25981451" target="_blank"><b> J Mol Biol 427(14): 2340-2347.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>de la Peña, M. and A. Cervera </td>
+    <td>Circular RNAs with hammerhead ribozymes encoded in eukaryotic genomes: The enemy at home.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Found on some retrozyme sequences</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28448743" target="_blank"><b> RNA Biol 14(8): 985-991.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Chen, H., T. J. Giese, B. L. Golden and D. M. York </td>
+    <td>Divalent Metal Ion Activation of a Guanine General Base in the Hammerhead Ribozyme: Insights from Molecular Simulations.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Mg2+ is critical for catalysis by activating G12</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28530384" target="_blank"><b> Biochemistry 56(24): 2985-2994.</b></a></td>
+  </tr>
+  <tr>
+    <td>2018</td>
+    <td>O'Rourke, S. M. and W. G. Scott </td>
+    <td>Structural Simplicity and Mechanistic Complexity in the Hammerhead Ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Complex mechanism of enhancing activity</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30340787" target="_blank"><b> Prog Mol Biol Transl Sci 159: 177-202.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>You, M., J. L. Litke, R. Wu and S. R. Jaffrey </td>
+    <td>Detection of Low-Abundance Metabolites in Live Cells Using an RNA Integrator.</td>
+    <td><a href="https://www.ribocentre.org/docs/hammer.html" target="_blank"><b>Hammerhead ribozyme</b></a></td>
+    <td>Composing RNA-based biosensor</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30773480" target="_blank"><b> Cell Chem Biol 26(4): 471-481.e473.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Zheng, L., C. Falschlunger, K. Huang, E. Mairhofer, S. Yuan, J. Wang, D. J. Patel, R. Micura and A. Ren </td>
+    <td>Hatchet ribozyme structure and implications for cleavage mechanism.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet ribozyme</b></a></td>
+    <td>Crystal structure and cleavage mechanism</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31088965" target="_blank"><b> Proc Natl Acad Sci U S A 116(22): 10783-10791.</b></a></td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Micura, R. and C. Hobartner </td>
+    <td>Fundamental studies of functional nucleic acids: aptamers, riboswitches, ribozymes and DNAzymes.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet ribozyme</b></a></td>
+    <td>Review about functional nucleic acids<br /> &nbsp;&nbsp;</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32944725" target="_blank"><b> Chem Soc Rev 49(20): 7331-7353.</b></a></td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>Weinberg, Z., P. B. Kim, T. H. Chen, S. Li, K. A. Harris, C. E. Lunse and R. R. Breaker </td>
+    <td>New classes of self-cleaving ribozymes revealed by comparative genomics analysis.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet ribozyme</b></a></td>
+    <td>Discovery, Secondary structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874" target="_blank"><b> Nat Chem Biol 11(8): 606-10.</b></a></td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>Li, S., C. E. Lunse, K. A. Harris and R. R. Breaker </td>
+    <td>Biochemical analysis of hatchet self-cleaving ribozymes.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet ribozyme</b></a></td>
+    <td>Biochemical analysis of hatchet ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26385510" target="_blank"><b> RNA 21(11): 1845-51.</b></a></td>
+  </tr>
+  <tr>
+    <td>2018</td>
+    <td>Gasser, C., J. Gebetsberger, M. Gebetsberger and R. Micura </td>
+    <td>SHAPE probing pictures Mg2+-dependent folding of small self-cleaving ribozymes.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet ribozyme</b></a></td>
+    <td>SHAPE probing of pre-catalytic folds of hatchet ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/29924364" target="_blank"><b> Nucleic Acids Res 46(14): 6983-6995.</b></a></td>
+  </tr>
+  <tr>
+    <td>1997</td>
+    <td>Kolk, M. H. </td>
+    <td>The structure of the isolated, central hairpin of the HDV antigenomic ribozyme: novel structural features and similarity of the loop in the ribozyme and free in solution.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV ribozyme</b></a></td>
+    <td>NMR structure of the isolated central hairpin（Stem Loop Ⅲ)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/9218809" target="_blank"><b> The EMBO Journal 16(12): 3685-3692.</b></a></td>
+  </tr>
+  <tr>
+    <td>1998</td>
+    <td>Ferré-D'Amaré, A. R., K. Zhou and J. A. Doudna </td>
+    <td>Crystal structure of a hepatitis delta virus ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV ribozyme</b></a></td>
+    <td>Crystal structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/9783582" target="_blank"><b> Nature 395(6702): 567-574.</b></a></td>
+  </tr>
+  <tr>
+    <td>2004</td>
+    <td>Ke, A., K. Zhou, F. Ding, J. H. Cate and J. A. Doudna </td>
+    <td>A conformational switch controls hepatitis delta virus ribozyme catalysis.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV ribozyme</b></a></td>
+    <td>Precursor structures</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/15141216" target="_blank"><b> Nature 429(6988): 201-205.</b></a></td>
+  </tr>
+  <tr>
+    <td>2010</td>
+    <td>Chen, J. H., R. Yajima, D. M. Chadalavada, E. Chase, P. C. Bevilacqua and B. L. Golden </td>
+    <td>A 1.9 A crystal structure of the HDV ribozyme precleavage suggests both Lewis acid and general acid mechanisms contribute to phosphodiester cleavage.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV ribozyme</b></a></td>
+    <td>Precleavage structures</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/20677830" target="_blank"><b> Biochemistry 49(31): 6508-6518.</b></a></td>
+  </tr>
+  <tr>
+    <td>1991</td>
+    <td>Rosenstein, S. P. and M. D. Been </td>
+    <td>Evidence that genomic and antigenomic RNA self-cleaving elements from hepatitis delta virus have similar secondary structures.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV ribozyme</b></a></td>
+    <td>Pseudoknot-like secondary structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/1923826" target="_blank"><b> Nucleic Acids Research 19(19): 5409-5416.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Lilley, D. M. J. </td>
+    <td>Classification of the nucleolytic ribozymes based upon catalytic mechanism.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV ribozyme</b></a></td>
+    <td>Review</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31489181 " target="_blank"><b> F1000Res 8.</b></a></td>
+  </tr>
+  <tr>
+    <td>1988</td>
+    <td>Kuo, M. Y., L. Sharmeen, G. Dinter-Gottlieb and J. Taylor </td>
+    <td>Characterization of self-cleaving RNA sequences on the genome and antigenome of human hepatitis delta virus.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV ribozyme</b></a></td>
+    <td>Discovery</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/3184270" target="_blank"><b> J Virol 62(12): 4439-4444.</b></a></td>
+  </tr>
+  <tr>
+    <td>1988</td>
+    <td>Sharmeen, L., M. Y. Kuo, G. Dinter-Gottlieb and J. Taylor </td>
+    <td>Antigenomic RNA of human hepatitis delta virus can undergo self-cleavage.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV ribozyme</b></a></td>
+    <td>Discovery</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/2455816" target="_blank"><b> J Virol 62(8): 2674-2679.</b></a></td>
+  </tr>
+  <tr>
+    <td>1989</td>
+    <td>Wu, H. N., Y. J. Lin, F. P. Lin, S. Makino, M. F. Chang and M. M. Lai </td>
+    <td>Human hepatitis delta virus RNA subfragments contain an autocleavage activity.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV ribozyme</b></a></td>
+    <td>Discovery</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/2648383" target="_blank"><b> Proceedings of the National Academy of Sciences 86(6): 1831-1835.</b></a></td>
+  </tr>
+  <tr>
+    <td>1990</td>
+    <td>Perrotta, A. T. and M. D. Been </td>
+    <td>The self-cleaving domain from the genomic RNA of hepatitis delta virus: sequence requirements and the effects of denaturant.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV ribozyme</b></a></td>
+    <td>84 nucleotides are required for rapid and efficient self-cleavage</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/2263447" target="_blank"><b> Nucleic Acids Res 18(23): 6821-6827.</b></a></td>
+  </tr>
+  <tr>
+    <td>1991</td>
+    <td>Perrotta, A. T. and M. D. Been </td>
+    <td>A pseudoknot-like structure required for efficient self-cleavage of hepatitis delta virus RNA.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV ribozyme</b></a></td>
+    <td>Pseudoknot-like secondary structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/2011192" target="_blank"><b> Nature 350(6317): 434-436.</b></a></td>
+  </tr>
+  <tr>
+    <td>1992</td>
+    <td>Been, M. D., A. T. Perrotta and S. P. Rosenstein </td>
+    <td>Secondary structure of the self-cleaving RNA of hepatitis delta virus: applications to catalytic RNA design.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV ribozyme</b></a></td>
+    <td>The P4 duplex can reduce the minimum size to about 65 nucleotides</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/1445917" target="_blank"><b> Biochemistry 31(47): 11843-11852.</b></a></td>
+  </tr>
+  <tr>
+    <td>1993</td>
+    <td>Suh, Y. A., P. K. Kumar, K. Taira and S. Nishikawa </td>
+    <td>Self-cleavage activity of the genomic HDV ribozyme in the presence of various divalent metal ions.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV ribozyme</b></a></td>
+    <td>Nonspecifific divalent cations are required for self-cleavage</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/8341602" target="_blank"><b> Nucleic Acids Res 21(14): 3277-3280.</b></a></td>
+  </tr>
+  <tr>
+    <td>1996</td>
+    <td>Ferre-D'Amare, A. R. and J. A. Doudna </td>
+    <td>Use of cis- and trans-ribozymes to remove 5' and 3' heterogeneities from milligrams of in vitro transcribed RNA.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV ribozyme</b></a></td>
+    <td>Use of cis-delta ribozyme generated 3′homogeneous RNA ends</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/8600468" target="_blank"><b> Nucleic Acids Res 24(5): 977-978</b></a></td>
+  </tr>
+  <tr>
+    <td>2000</td>
+    <td>Nakano, S., D. M. Chadalavada and P. C. Bevilacqua </td>
+    <td>General acid-base catalysis in the mechanism of a hepatitis delta virus ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV ribozyme</b></a></td>
+    <td>C75 acts as the general acid and ribozyme-bound hydrated metal hydroxide as the general base</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10688799" target="_blank"><b> Science 287(5457): 1493-1497.</b></a></td>
+  </tr>
+  <tr>
+    <td>2005</td>
+    <td>Das, S. R. and J. A. Piccirilli </td>
+    <td>General acid catalysis by the hepatitis delta virus ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV ribozyme</b></a></td>
+    <td>It is prooved that C75 acts as the general acid</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16407993" target="_blank"><b> Nat Chem Biol 1(1): 45-52.</b></a></td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>Weinberg, Z., P. B. Kim, T. H. Chen, S. Li, K. A. Harris, C. E. Lünse and R. R. Breaker </td>
+    <td>New classes of self-cleaving ribozymes revealed by comparative genomics analysis.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV ribozyme</b></a></td>
+    <td>The HDV ribozyme variants were discovered</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874" target="_blank"><b> Nature Chemical Biology 11(8): 606-610.</b></a></td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>Koo, S. C., J. Lu, N. S. Li, E. Leung, S. R. Das, M. E. Harris and J. A. Piccirilli </td>
+    <td>Transition State Features in the Hepatitis Delta Virus Ribozyme Reaction Revealed by Atomic Perturbations.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV ribozyme</b></a></td>
+    <td>Transition state features</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26125657" target="_blank"><b> J Am Chem Soc 137(28): 8973-8982.</b></a></td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>Lee, T. S., B. K. Radak, M. E. Harris and D. M. York </td>
+    <td>A Two-Metal-Ion-Mediated Conformational Switching Pathway for HDV Ribozyme Activation.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV ribozyme</b></a></td>
+    <td>Dynamic reaction mechanism model with two Mg2+ ions</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27774349" target="_blank"><b> ACS Catal 6(3): 1853-1869.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Yamagami, R., M. Kayedkhordeh, D. H. Mathews and P. C. Bevilacqua </td>
+    <td>Design of highly active double-pseudoknotted ribozymes: a combined computational and experimental study.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV ribozyme</b></a></td>
+    <td>Double-pseudoknot HDV can self-cleavge with the same mechanism as the WT ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30462314" target="_blank"><b> Nucleic Acids Res 47(1): 29-42.</b></a></td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>Weinberg, Z., P. B. Kim, T. H. Chen, S. Li, K. A. Harris, C. E. Lunse and R. R. Breaker </td>
+    <td>New classes of self-cleaving ribozymes revealed by comparative genomics analysis.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV-like.html" target="_blank"><b>HDV ribozyme variants</b></a></td>
+    <td>HDV ribozyme variants in bacterial metagenomes and fungal genomes</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874" target="_blank"><b> Nat Chem Biol 11 (8): 606-10</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Li, S. and R. R. Breaker </td>
+    <td>Identification of 15 candidate structured noncoding RNA motifs in fungi by comparative genomics.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV-like.html" target="_blank"><b>HDV variants</b></a></td>
+    <td>More HDV ribozyme variants in fungi</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/29029611" target="_blank"><b> BMC Genomics 18 (1): 785.</b></a></td>
+  </tr>
+  <tr>
+    <td>2009</td>
+    <td>Webb, C. H., N. J. Riccitelli, D. J. Ruminski and A. Luptak </td>
+    <td>Widespread occurrence of self-cleaving ribozymes.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV-like.html" target="_blank"><b>HDV-like ribozymes</b></a></td>
+    <td>HDV-like ribozymes in other species</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/19965505" target="_blank"><b> Science 326 (5955): 953.</b></a></td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>Webb, C. H. and A. Luptak </td>
+    <td>HDV-like self-cleaving ribozymes.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV-like.html" target="_blank"><b>HDV-like self-cleaving ribozymes</b></a></td>
+    <td>A review of HDV-like self-cleaving ribozymes</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/21734469" target="_blank"><b> RNA Biol 8 (5): 719-27.</b></a></td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>Chen, Y., F. Qi, F. Gao, H. Cao, D. Xu, K. Salehi-Ashtiani and P. Kapranov </td>
+    <td>Hovlinc is a recently evolved class of ribozyme found in human lncRNA.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hovlinc.html" target="_blank"><b>Hovlinc ribozyme</b></a></td>
+    <td>Discovery of Hovlinc ribozyme and its secondary structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33753927" target="_blank"><b> Nature Chemical Biology 17 (5): 601-607.</b></a></td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>Sanchez-Luque, F. J., M. C. Lopez, F. Macias, C. Alonso and M. C. Thomas </td>
+    <td>Identification of an hepatitis delta virus-like ribozyme at the mRNA 5'-end of the L1Tc retrotransposon from Trypanosoma cruzi.</td>
+    <td><a href="https://www.ribocentre.org/docs/Hovlinc.html" target="_blank"><b>L1Tc ribozyme(L1TcRz)</b></a></td>
+    <td>A HDV-like ribozyme in L1Tc mRNA</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/21724615" target="_blank"><b> Nucleic Acids Res 39 (18): 8065-77.</b></a></td>
+  </tr>
+  <tr>
+    <td>2006</td>
+    <td>Salehi-Ashtiani, K., A. Luptak, A. Litovchick and J. W. Szostak </td>
+    <td>A genomewide search for ribozymes reveals an HDV-like sequence in the human CPEB3 gene.</td>
+    <td><a href="https://www.ribocentre.org/docs/Line1.html" target="_blank"><b>LINE1 ribozyme</b></a></td>
+    <td>Discovery</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16990549" target="_blank"><b> Science 313(5794): 1788-1792.</b></a></td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>Ren, A., Vusurovic, N., Gebetsberger, J., Gao, P., Juen, M., Kreutz, C., Micura, R. &amp; Patel, D. J. </td>
+    <td>Pistol ribozyme adopts a pseudoknot fold facilitating site-specific in-line cleavage. </td>
+    <td><a href="https://www.ribocentre.org/docs/Pistol.html" target="_blank"><b>Pistol ribozyme</b></a></td>
+    <td>The pseudoknot fold facilitating sitespecific in-line cleavage</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27398999" target="_blank"><b>Nature Chemical Biology, 12, 702-8.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Nguyen, L. A., Wang, J. &amp; Steitz, T. A. </td>
+    <td>Crystal structure of Pistol, a class of self-cleaving ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/Pistol.html" target="_blank"><b>Pistol ribozyme</b></a></td>
+    <td> Crystal structure of Pistol shows an evolutionarily conserved cleavage mechanism that is like other self-cleaving ribozymes</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28096403" target="_blank"><b>Proc Natl Acad Sci U S A, 114, 1021-6.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Wilson, T. J., Y. Liu, N. S. Li, Q. Dai, J. A. Piccirilli and D. Lilley </td>
+    <td>Comparison of the Structures and Mechanisms of the Pistol and Hammerhead Ribozymes.</td>
+    <td><a href="https://www.ribocentre.org/docs/Pistol.html" target="_blank"><b>Pistol ribozyme</b></a></td>
+    <td>Comparison of the Structures and Mechanisms of the Pistol and Hammerhead Ribozymes</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31017785" target="_blank"><b> J Am Chem Soc 141(19): 7865-7875.</b></a></td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Teplova, M., Falschlunger, C., Krasheninina, O., Egger, M., Ren, A., Patel, D. J. &amp; Micura, R. </td>
+    <td>Crucial Roles of Two Hydrated Mg2+ Ions in Reaction Catalysis of the Pistol Ribozyme. </td>
+    <td><a href="https://www.ribocentre.org/docs/Pistol.html" target="_blank"><b>Pistol ribozyme</b></a></td>
+    <td>Crucial Roles of Two Hydrated Mg2+ Ions in Reaction Catalysis</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31804735" target="_blank"><b>Angew Chem Int Ed Engl, 59, 2837-43.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Kobori, S., K. Takahashi and Y. Yokobayashi </td>
+    <td>Deep Sequencing Analysis of Aptazyme Variants Based on a Pistol Ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/Pistol.html" target="_blank"><b>Pistol ribozyme</b></a></td>
+    <td>Deep Sequencing Analysis of Aptazyme Variants Based on Pistol Ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28398719" target="_blank"><b> ACS Synth Biol 6(7): 1283-1288.</b></a></td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Micura, R. and C. Hobartner </td>
+    <td>Fundamental studies of functional nucleic acids: aptamers, riboswitches, ribozymes and DNAzymes.</td>
+    <td><a href="https://www.ribocentre.org/docs/Pistol.html" target="_blank"><b>Pistol ribozyme</b></a></td>
+    <td>Review about functional nucleic acids</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32944725" target="_blank"><b> Chem Soc Rev 49(20): 7331-7353.</b></a></td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>Mustafina, K., Y. Nomura, R. Rotrattanadumrong and Y. Yokobayashi </td>
+    <td>Circularly-Permuted Pistol Ribozyme: A Synthetic Ribozyme Scaffold for Mammalian  Riboswitches.</td>
+    <td><a href="https://www.ribocentre.org/docs/Pistol.html" target="_blank"><b>Pistol ribozyme</b></a></td>
+    <td>Pistol ribozyme used for Mammalian Riboswitches</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34374523" target="_blank"><b> ACS Synth Biol 10(8): 2040-2048.</b></a></td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>Weinberg, Z., Kim, P. B., Chen, T. H., Li, S., Harris, K. A., Lunse, C. E. &amp; Breaker, R. R. </td>
+    <td>New classes of self-cleaving ribozymes revealed by comparative genomics analysis.</td>
+    <td><a href="https://www.ribocentre.org/docs/Pistol.html" target="_blank"><b>Pistol ribozyme</b></a></td>
+    <td>Discovery, Secondary structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874" target="_blank"><b> Nature Chemical Biology, 11, 606-10.</b></a></td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>Harris, K. A., C. E. Lunse, S. Li, K. I. Brewer and R. R. Breaker </td>
+    <td>Biochemical analysis of pistol self-cleaving ribozymes.</td>
+    <td><a href="https://www.ribocentre.org/docs/Pistol.html" target="_blank"><b>Pistol ribozyme</b></a></td>
+    <td>Biochemical analysis of pistol ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26385507" target="_blank"><b> RNA 21(11): 1852-8.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Neuner, S., C. Falschlunger, E. Fuchs, M. Himmelstoss, A. Ren, D. J. Patel and R. Micura </td>
+    <td>Atom-Specific Mutagenesis Reveals Structural and Catalytic Roles for an Active-Site Adenosine and Hydrated Mg(2+) in Pistol Ribozymes.</td>
+    <td><a href="https://www.ribocentre.org/docs/Pistol.html" target="_blank"><b>Pistol ribozyme</b></a></td>
+    <td>Structural and Catalytic Roles for an Active-Site Adenosine and Hydrated Mg(2+) in Pistol Ribozymes</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/29098759" target="_blank"><b> Angew Chem Int Ed Engl 56(50): 15954-15958.</b></a></td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Joseph, N. N., R. N. Roy and T. A. Steitz </td>
+    <td>Molecular dynamics analysis of Mg(2+) -dependent cleavage of a pistol ribozyme reveals a fail-safe secondary ion for catalysis.</td>
+    <td><a href="https://www.ribocentre.org/docs/Pistol.html" target="_blank"><b>Pistol ribozyme</b></a></td>
+    <td> Mg2+ -dependent cleavage of a pistol ribozyme reveals a fail-safe secondary ion for catalysis</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32091136" target="_blank"><b> J Comput Chem 41(14): 1345-1352.</b></a></td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>Lihanova, Y. and C. E. Weinberg </td>
+    <td>Biochemical analysis of cleavage and ligation activities of the pistol ribozyme from Paenibacillus polymyxa.</td>
+    <td><a href="https://www.ribocentre.org/docs/Pistol.html" target="_blank"><b>Pistol ribozyme</b></a></td>
+    <td>Biochemical analysis of cleavage and ligation activities of the pistol ribozyme from Paenibacillus polymyxa</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33622172" target="_blank"><b> RNA Biol 18(11): 1858-1866.</b></a></td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>Ekesan, S. and D. M. York </td>
+    <td>Who stole the proton? Suspect general base guanine found with a smoking gun in the pistol ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/Pistol.html" target="_blank"><b>Pistol ribozyme</b></a></td>
+    <td>new classical and combined quantum mechanical/molecular mechanical simulation of pistol ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/35452066" target="_blank"><b> Org Biomol Chem.</b></a></td>
+  </tr>
+  <tr>
+    <td>2010</td>
+    <td>Eickbush, D. G. and T. H. Eickbush </td>
+    <td>R2 retrotransposons encode a self-cleaving ribozyme for processing from an rRNA cotranscript.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV-like.html" target="_blank"><b>R2 ribozyme</b></a></td>
+    <td>A HDV-like ribozyme encoded by R2 retrotransposons</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/20421411" target="_blank"><b> Mol Cell Biol 30 (13): 3142-50.</b></a></td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>Ruminski, D. J., C. T. Webb, N. J. Riccitelli and A. Luptak </td>
+    <td>Processing and translation initiation of non-long terminal repeat retrotransposons by hepatitis delta virus (HDV)-like self-cleaving ribozymes.</td>
+    <td><a href="https://www.ribocentre.org/docs/HDV-like.html" target="_blank"><b>RT-associated ribozymes</b></a></td>
+    <td>More retrotransposons encode HDV-like ribozymes</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/21994949" target="_blank"><b> J Biol Chem 286 (48): 41286-41295.</b></a></td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>Liu, Y., T. J. Wilson, S. A. McPhee and D. M. Lilley </td>
+    <td>Crystal structure and mechanistic investigation of the twister ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><b>twister ribozyme</b></a></td>
+    <td>Crystal structure of P1-type </td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25038788" target="_blank"><b> Nat Chem Biol 10(9): 739-44.</b></a></td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>Eiler, D., J. Wang and T. A. Steitz </td>
+    <td>Structural basis for the fast self-cleavage reaction catalyzed by the twister ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><b>twister ribozyme</b></a></td>
+    <td>Crystal structure of P3-type </td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25157168" target="_blank"><b> Proc Natl Acad Sci U S A 111(36): 13028-33.</b></a></td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>Ren, A., M. Kosutic, K. R. Rajashankar, M. Frener, T. Santner, E. Westhof, R. Micura and D. J. Patel </td>
+    <td>In-line alignment and Mg(2)(+) coordination at the cleavage site of the env22 twister ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><b>twister ribozyme</b></a></td>
+    <td>Crystal structure of P1-type </td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25410397" target="_blank"><b> Nat Commun 5: 5534.</b></a></td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>Kosutic, M., S. Neuner, A. Ren, S. Flur, C. Wunderlich, E. Mairhofer, N. Vusurovic, J. Seikowski, K. Breuker, C. Hobartner, D. J. Patel, C. Kreutz and R. Micura </td>
+    <td>A Mini-Twister Variant and Impact of Residues/Cations on the Phosphodiester Cleavage of this Ribozyme Class.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><b>twister ribozyme</b></a></td>
+    <td>Catalytic mechanism of Mini-Twister Variant</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26473980" target="_blank"><b> Angew Chem Int Ed Engl 54(50): 15128-15133.</b></a></td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>Wilson, T. J., Y. Liu, C. Domnick, S. Kath-Schorr and D. M. Lilley </td>
+    <td>The Novel Chemical Mechanism of the Twister Ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><b>twister ribozyme</b></a></td>
+    <td>Novel chemical Mechanism</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27153229" target="_blank"><b> J Am Chem Soc 138(19): 6151-62.</b></a></td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>Kobori, S. and Y. Yokobayashi </td>
+    <td>High-Throughput Mutational Analysis of a Twister Ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><b>twister ribozyme</b></a></td>
+    <td>High-Throughput Mutational Analysis of a Twister Ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27461281" target="_blank"><b> Angew Chem Int Ed Engl 55(35): 10354-7.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Vusurovic, N., Altman, R. B., Terry, D. S., Micura, R. &amp; Blanchard, S. C.</td>
+    <td>Pseudoknot Formation Seeds the Twister Ribozyme Cleavage Reaction Coordinate.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><b>twister ribozyme</b></a></td>
+    <td>The role of pseudokno</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28598157" target="_blank"><b> J Am Chem Soc 139 (24): 8186-8193.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Panja, S., B. Hua, D. Zegarra, T. Ha and S. A. Woodson </td>
+    <td>Metals induce transient folding and activation of the twister ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><b>twister ribozyme</b></a></td>
+    <td>Metals induce transient folding and activation of the twister ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28825710" target="_blank"><b> Nat Chem Biol 13(10): 1109-1114.</b></a></td>
+  </tr>
+  <tr>
+    <td>2018</td>
+    <td>Messina, K. J. and P. C. Bevilacqua </td>
+    <td>Cellular Small Molecules Contribute to Twister Ribozyme Catalysis.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><b>twister ribozyme</b></a></td>
+    <td>Cellular Small Molecules Contribute to Twister Ribozyme Catalysis</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30102530" target="_blank"><b> J Am Chem Soc 140(33): 10578-10582.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Gaines, C. S., T. J. Giese and D. M. York </td>
+    <td>Cleaning Up Mechanistic Debris Generated by Twister Ribozymes Using Computational RNA Enzymology.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><b>twister ribozyme</b></a></td>
+    <td>Cleaning Up Mechanistic Debris Generated by Twister Ribozymes Using Computational RNA Enzymology</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31328021" target="_blank"><b> ACS Catal 9(7): 5803-5815.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Lilley, D. </td>
+    <td>Classification of the nucleolytic ribozymes based upon catalytic mechanism.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><b>twister ribozyme</b></a></td>
+    <td>Classification of the nucleolytic ribozymes based upon catalytic mechanism</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31489181" target="_blank"><b> F1000Res 8.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Litke, J. L. and S. R. Jaffrey </td>
+    <td>Highly efficient expression of circular RNA aptamers in cells using autocatalytic transcripts.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><b>twister ribozyme</b></a></td>
+    <td>Application for highly efficient express circular RNA aptamers </td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30962542" target="_blank"><b> Nat Biotechnol 37(6): 667-675.</b></a></td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Korman, A., H. Sun, B. Hua, H. Yang, J. N. Capilato, R. Paul, S. Panja, T. Ha, M. M. Greenberg and S. A. Woodson </td>
+    <td>Light-controlled twister ribozyme with single-molecule detection resolves RNA function in time and space.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><b>twister ribozyme</b></a></td>
+    <td>Application for RNA function detection</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32430319" target="_blank"><b> Proc Natl Acad Sci U S A 117(22): 12080-12086.</b></a></td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>Roth, A., Z. Weinberg, A. G. Chen, P. B. Kim, T. D. Ames and R. R. Breaker </td>
+    <td>A widespread self-cleaving ribozyme class is revealed by bioinformatics.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><b>twister ribozyme</b></a></td>
+    <td>Discovery, Secondary structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24240507" target="_blank"><b> Nat Chem Biol 10(1): 56-60.</b></a></td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>Felletti, M., J. Stifel, L. A. Wurmthaler, S. Geiger and J. S. Hartig </td>
+    <td>Twister ribozymes as highly versatile expression platforms for artificial riboswitches.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><b>twister ribozyme</b></a></td>
+    <td>Application：Twister ribozymes as highly versatile expression platforms for artificial riboswitches</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27670347" target="_blank"><b> Nat Commun 7: 12834.</b></a></td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>Gaines, C. S. and D. M. York </td>
+    <td>Ribozyme Catalysis with a Twist: Active State of the Twister Ribozyme in Solution Predicted from Molecular Simulation.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><b>twister ribozyme</b></a></td>
+    <td>Active State of the Twister Ribozyme in Solution Predicted from Molecular Simulation</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26859432" target="_blank"><b> J Am Chem Soc 138(9): 3058-65.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Gebetsberger, J. &amp; Micura, R.</td>
+    <td>Unwinding the twister ribozyme: from structure to mechanism.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><b>twister ribozyme</b></a></td>
+    <td>Chemical Mechanism</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27863022" target="_blank"><b> Wiley Interdiscip Rev RNA 8 (3).</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Breaker, R. R. </td>
+    <td>Mechanistic Debris Generated by Twister Ribozymes.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><b>twister ribozyme</b></a></td>
+    <td>Mechanistic Debris Generated by Twister Ribozymes</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28191925" target="_blank"><b> ACS Chem Biol 12(4): 886-891.</b></a></td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>Liu, G., H. Jiang, W. Sun, J. Zhang, D. Chen and A. Murchie </td>
+    <td>The function of twister ribozyme variants in non-LTR retrotransposition in Schistosoma mansoni.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><b>twister ribozyme</b></a></td>
+    <td>The function of twister ribozyme variants in non-LTR retrotransposition</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34551436" target="_blank"><b> Nucleic Acids Res 49(18): 10573-10588.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Liu, Y., T. J. Wilson and D. Lilley </td>
+    <td>The structure of a nucleolytic ribozyme that employs a catalytic metal ion.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister-sister.html" target="_blank"><b>twister-sister ribozyme</b></a></td>
+    <td>Three-way junctional pre-catalytic structure </td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28263963" target="_blank"><b> Nat Chem Biol 13(5): 508-513.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Zheng, L., E. Mairhofer, M. Teplova, Y. Zhang, J. Ma, D. J. Patel, R. Micura and A. Ren </td>
+    <td>Structure-based insights into self-cleavage by a four-way junctional twister-sister ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister-sister.html" target="_blank"><b>twister-sister ribozyme</b></a></td>
+    <td>Four-way junctional pre-catalytic structure </td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/29081514" target="_blank"><b> Nat Commun 8(1): 1180.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Gaines, C. S. and D. M. York </td>
+    <td>Model for the Functional Active State of the TS Ribozyme from Molecular Simulation.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister-sister.html" target="_blank"><b>twister-sister ribozyme</b></a></td>
+    <td>Model for the Functional Active State of the TS Ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28763583" target="_blank"><b> Angew Chem Int Ed Engl 56(43): 13392-13395.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Lilley, D. </td>
+    <td>Classification of the nucleolytic ribozymes based upon catalytic mechanism.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister-sister.html" target="_blank"><b>twister-sister ribozyme</b></a></td>
+    <td>Classification of the nucleolytic ribozymes based upon catalytic mechanism</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31489181" target="_blank"><b> F1000Res 8.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>You, M., J. L. Litke, R. Wu and S. R. Jaffrey </td>
+    <td>Detection of Low-Abundance Metabolites in Live Cells Using an RNA Integrator.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister-sister.html" target="_blank"><b>twister-sister ribozyme</b></a></td>
+    <td>Application:twister sister ribozyme is used to detect Low-Abundance Mrtabolites</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30773480" target="_blank"><b> Cell Chem Biol 26(4): 471-481.e3.</b></a></td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Micura, R. and C. Hobartner </td>
+    <td>Fundamental studies of functional nucleic acids: aptamers, riboswitches, ribozymes and DNAzymes.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister-sister.html" target="_blank"><b>twister-sister ribozyme</b></a></td>
+    <td>Review about functional nucleic acids<br /> &nbsp;&nbsp;</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32944725" target="_blank"><b> Chem Soc Rev 49(20): 7331-7353.</b></a></td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>Weinberg, Z., P. B. Kim, T. H. Chen, S. Li, K. A. Harris, C. E. Lunse and R. R. Breaker </td>
+    <td>New classes of self-cleaving ribozymes revealed by comparative genomics analysis.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister-sister.html" target="_blank"><b>twister-sister ribozyme</b></a></td>
+    <td>Discovery, Secondary structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874" target="_blank"><b> Nat Chem Biol 11(8): 606-10.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Ren, A., R. Micura and D. J. Patel </td>
+    <td>Structure-based mechanistic insights into catalysis by small self-cleaving ribozymes.</td>
+    <td><a href="https://www.ribocentre.org/docs/twister-sister.html" target="_blank"><b>twister-sister ribozyme</b></a></td>
+    <td>Structure-based mechanistic</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/29107885" target="_blank"><b> Curr Opin Chem Biol 41: 71-83.</b></a></td>
+  </tr>
+  <tr>
+    <td>2008</td>
+    <td>Kolev, N. G., E. I. Hartland and P. W. Huber </td>
+    <td>A manganese-dependent ribozyme in the 3'-untranslated region of Xenopus Vg1 mRNA.</td>
+    <td><a href="https://www.ribocentre.org/docs/Vg1.html" target="_blank"><b>Vg1 ribozyme</b></a></td>
+    <td>Discovery that manganese-dependent ribozyme occurs naturally in the 3'-UTR of Vg1 and beta-actin mRNAs</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/18753150" target="_blank"><b> Nucleic Acids Res 36(17): 5530-5539.</b></a></td>
+  </tr>
+  <tr>
+    <td>1990</td>
+    <td>Saville, B. J. and R. A. Collins </td>
+    <td>A site-specific self-cleavage reaction performed by a novel RNA in neurospora mitochondria.</td>
+    <td><a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><b>VS ribozyme</b></a></td>
+    <td>discovery</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/2160856" target="_blank"><b> Cell 61(4): 685-696.</b></a></td>
+  </tr>
+  <tr>
+    <td>1995</td>
+    <td>Beattie, T. L., J. E. Olive and R. A. Collins </td>
+    <td>A secondary-structure model for the self-cleaving region of Neurospora VS RNA.</td>
+    <td><a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><b>VS ribozyme</b></a></td>
+    <td>secondary structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/7753865" target="_blank"><b> Proc Natl Acad Sci U S A 92(10): 4686-4690.</b></a></td>
+  </tr>
+  <tr>
+    <td>2001</td>
+    <td>D.A. Lafontaine, D.G. Norman and D.M.J. Lilley  </td>
+    <td>Structure, folding and activity of the VS ribozyme : Importance of the 2-3-6 helical junction  </td>
+    <td><a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><b>VS ribozyme</b></a></td>
+    <td>Importance of the 2-3-6 helical junction</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/11250907" target="_blank"><b>EMBO J. 20 1415-1424 </b></a></td>
+  </tr>
+  <tr>
+    <td>2001</td>
+    <td>Lafontaine, D. A., T. J. Wilson, D. G. Norman and D. M. Lilley </td>
+    <td>The A730 loop is an important component of the active site of the VS ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><b>VS ribozyme</b></a></td>
+    <td>A730 loop is important</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/11575922" target="_blank"><b> J Mol Biol 312(4): 663-674.</b></a></td>
+  </tr>
+  <tr>
+    <td>2001</td>
+    <td>Flinders, J. and T. Dieckmann </td>
+    <td>A pH controlled conformational switch in the cleavage site of the VS ribozyme substrate RNA.</td>
+    <td><a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><b>VS ribozyme</b></a></td>
+    <td>NMR structure of the isolated substrate helix</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/11350168" target="_blank"><b> J Mol Biol 308(4): 665-679.</b></a></td>
+  </tr>
+  <tr>
+    <td>2002</td>
+    <td>D.A. Lafontaine, D.G. Norman and D. M.J. Lilley </td>
+    <td>The global structure of the VS ribozyme. </td>
+    <td><a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><b>VS ribozyme</b></a></td>
+    <td>The global structure of the VS ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/12006498" target="_blank"><b>EMBO J. 21, 2461-2471 </b></a></td>
+  </tr>
+  <tr>
+    <td>2002</td>
+    <td>Lafontaine, D. A., T. J. Wilson, Z.-Y. Zhao and D. M. J. Lilley </td>
+    <td>Functional Group Requirements in the Probable Active Site of the VS Ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><b>VS ribozyme</b></a></td>
+    <td>A756 is critical for catalysis</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/12368096" target="_blank"><b> Journal of Molecular Biology 323(1): 23-34.</b></a></td>
+  </tr>
+  <tr>
+    <td>2005</td>
+    <td>Campbell, D. O. and P. Legault </td>
+    <td>Nuclear magnetic resonance structure of the Varkud satellite ribozyme stem-loop V RNA and magnesium-ion binding from chemical-shift mapping.</td>
+    <td><a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><b>VS ribozyme</b></a></td>
+    <td>NMR structure of SL5</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/15766243" target="_blank"><b> Biochemistry 44(11): 4157-4170.</b></a></td>
+  </tr>
+  <tr>
+    <td>2007</td>
+    <td>Wilson, T. J., A. C. McLeod and D. M. Lilley </td>
+    <td>A guanine nucleobase important for catalysis by the VS ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><b>VS ribozyme</b></a></td>
+    <td>G638 is critical for catalysis</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/17464286" target="_blank"><b> EMBO J 26(10): 2489-2500.</b></a></td>
+  </tr>
+  <tr>
+    <td>2008</td>
+    <td>Lipfert, J., J. Ouellet, D. G. Norman, S. Doniach and D. M. Lilley </td>
+    <td>The complete VS ribozyme in solution studied by small-angle X-ray scattering.</td>
+    <td><a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><b>VS ribozyme</b></a></td>
+    <td>SAXS-deriverd structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/18786398" target="_blank"><b> Structure 16(9): 1357-1367.</b></a></td>
+  </tr>
+  <tr>
+    <td>2009</td>
+    <td>J. Ouellet, M. Byrne and D. M. J. Lilley  </td>
+    <td>Formation of an active site in trans by interaction of two complete Varkud Satellite ribozymes</td>
+    <td><a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><b>VS ribozyme</b></a></td>
+    <td>The soixante-neuf experiment</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/19703941" target="_blank"><b>RNA 15, 1822-1826 </b></a></td>
+  </tr>
+  <tr>
+    <td>2010</td>
+    <td>Wilson, T. J., N. S. Li, J. Lu, J. K. Frederiksen, J. A. Piccirilli and D. M. Lilley </td>
+    <td>Nucleobase-mediated general acid-base catalysis in the Varkud satellite ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><b>VS ribozyme</b></a></td>
+    <td>catalytic mechanism</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/20547881" target="_blank"><b> Proc Natl Acad Sci U S A 107(26): 11751-11756.</b></a></td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>T. J. Wilson and D. M. J. Lilley. </td>
+    <td>Do the hairpin and VS ribozymes share a common catalytic mechanism based on general acid-base catalysis ? A critical assessment of available experimental data. </td>
+    <td><a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><b>VS ribozyme</b></a></td>
+    <td>Detailed discussion of the chemical mechanism</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/21173201" target="_blank"><b>RNA 17, 213-221 </b></a></td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>Desjardins, G., E. Bonneau, N. Girard, J. Boisbouvier and P. Legault </td>
+    <td>NMR structure of the A730 loop of the Neurospora VS ribozyme: insights into the formation of the active site.</td>
+    <td><a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><b>VS ribozyme</b></a></td>
+    <td>NMR structure of A730 loop</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/21266483" target="_blank"><b> Nucleic Acids Res 39(10): 4427-4437.</b></a></td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>Bonneau, E. and P. Legault </td>
+    <td>Nuclear magnetic resonance structure of the III-IV-V three-way junction from the Varkud satellite ribozyme and identification of magnesium-binding sites using paramagnetic relaxation enhancement.</td>
+    <td><a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><b>VS ribozyme</b></a></td>
+    <td>NMR structure of the III-IV-V three-way junction</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25238589" target="_blank"><b> Biochemistry 53(39): 6264-6275.</b></a></td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>Bonneau, E., N. Girard, S. Lemieux and P. Legault </td>
+    <td>The NMR structure of the II-III-VI three-way junction from the Neurospora VS ribozyme reveals a critical tertiary interaction and provides new insights into the global ribozyme structure.</td>
+    <td><a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><b>VS ribozyme</b></a></td>
+    <td>NMR structure of the II-III-VI three-way junction</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26124200" target="_blank"><b> RNA 21(9): 1621-1632.</b></a></td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>Suslov, N. B., S. DasGupta, H. Huang, J. R. Fuller, D. M. Lilley, P. A. Rice and J. A. Piccirilli </td>
+    <td>Crystal structure of the Varkud satellite ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><b>VS ribozyme</b></a></td>
+    <td>Crystal structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26414446" target="_blank"><b> Nat Chem Biol 11(11): 840-846.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>DasGupta, S., N. B. Suslov and J. A. Piccirilli </td>
+    <td>Structural Basis for Substrate Helix Remodeling and Cleavage Loop Activation in the Varkud Satellite Ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><b>VS ribozyme</b></a></td>
+    <td>Crystal structure</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28625058" target="_blank"><b> J Am Chem Soc 139(28): 9591-9597.</b></a></td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Ganguly, A., B. P. Weissman, T. J. Giese, N. S. Li, S. Hoshika, S. Rao, S. A. Benner, J. A. Piccirilli and D. M. York </td>
+    <td>Confluence of theory and experiment reveals the catalytic mechanism of the Varkud satellite ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><b>VS ribozyme</b></a></td>
+    <td>Additional experiments to summarize the structure and function of VS ribozyme</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31959957" target="_blank"><b> Nat Chem 12(2): 193-201.</b></a></td>
+  </tr>
+  <tr>
+    <td>1977</td>
+    <td>Chow, L. T., R. E. Gelinas, T. R. Broker and R. J. Roberts </td>
+    <td>An amazing sequence arrangement at the 5′ ends of adenovirus 2 messenger RNA.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>Splicing phenomenon found</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/902310" target="_blank"><b> Cell 12(1): 1-8.</b></a></td>
+  </tr>
+  <tr>
+    <td>1983</td>
+    <td>Mount, S. M., I. Pettersson, M. Hinterberger, A. Karmas and J. A. Steitz </td>
+    <td>The U1 small nuclear RNA-protein complex selectively binds a 5' splice site in vitro.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>First isolation of spliceosome subunits</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/6190573" target="_blank"><b> Cell 33(2): 509-518.</b></a></td>
+  </tr>
+  <tr>
+    <td>1985</td>
+    <td>Frendewey, D. and W. Keller </td>
+    <td>Stepwise assembly of a pre-mRNA splicing complex requires U-snRNPs and specific intron sequences.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>In vitro splicing experiment</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/3160483" target="_blank"><b> Cell 42(1): 355-367.</b></a></td>
+  </tr>
+  <tr>
+    <td>1985</td>
+    <td>Grabowski, P., S. Seiler and P. Sharp </td>
+    <td>A multicomponent complex is involved in the splicing of messenger RNA precursors.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>In vitro splicing experiment</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/3160482" target="_blank"><b> Cell 42(1): 345-353.</b></a></td>
+  </tr>
+  <tr>
+    <td>1992</td>
+    <td>Madhani, H. D. and C. Guthrie </td>
+    <td>A novel base-pairing interaction between U2 and U6 snRNAs suggests a mechanism for the catalytic activation of the spliceosome.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>Demonstrate a conserved base-pairing interaction between the U6 and U2 snRNAs that is mutually exclusive with the U4-U6 interaction</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/1423631" target="_blank"><b> Cell 71(5): 803-817.</b></a></td>
+  </tr>
+  <tr>
+    <td>1993</td>
+    <td>Steitz, T. A. and J. A. Steitz </td>
+    <td>A general two-metal-ion mechanism for catalytic RNA.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>Proposed that the two phosphotransesterifications of splicing are catalyzed by a two-metal mechanism</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/8341661" target="_blank"><b> Proc Natl Acad Sci U S A 90(14): 6498-6502.</b></a></td>
+  </tr>
+  <tr>
+    <td>1997</td>
+    <td>Sontheimer, E. J., S. Sun and J. A. Piccirilli </td>
+    <td>Metal ion catalysis during splicing of premessenger RNA.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>Divalent metals stabilize the leaving group during each step of splicing</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/9285595" target="_blank"><b> Nature 388(6644): 801-805.</b></a></td>
+  </tr>
+  <tr>
+    <td>2000</td>
+    <td>Yean, S. L., G. Wuenschell, J. Termini and R. J. Lin </td>
+    <td>Metal-ion coordination by U6 small nuclear RNA contributes to catalysis in the spliceosome.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>Metal-ion coordination by U6 small nuclear RNA contributes to catalysis in the spliceosome</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/11130730" target="_blank"><b> Nature 408(6814): 881-884.</b></a></td>
+  </tr>
+  <tr>
+    <td>2001</td>
+    <td>Valadkhan, S. and J. L. Manley </td>
+    <td>Splicing-related catalysis by protein-free snRNAs.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>U2 and U6 can base-pair and fold in vitro into a structure that catalyzes reactions similar to the two steps of pre-mRNA splicing</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/11607023" target="_blank"><b> Nature 413(6857): 701-707.</b></a></td>
+  </tr>
+  <tr>
+    <td>2009</td>
+    <td>Mefford, M. A. and J. P. Staley </td>
+    <td>Evidence that U2/U6 helix I promotes both catalytic steps of pre-mRNA splicing and rearranges in between these steps.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>U2/U6 helix I promotes both catalytic steps of pre-mRNA splicing and rearranges in between these steps</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/19458033" target="_blank"><b> RNA 15(7): 1386-1397.</b></a></td>
+  </tr>
+  <tr>
+    <td>2013</td>
+    <td>Galej, W. P., C. Oubridge, A. J. Newman and K. Nagai </td>
+    <td>Crystal structure of Prp8 reveals active site cavity of the spliceosome.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>provides crucial insights into the architecture of the spliceosome active site, and reinforces the notion that nuclear pre-mRNA splicing and group II intron splicing have a common origin.</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/23354046" target="_blank"><b> Nature 493(7434): 638-643.</b></a></td>
+  </tr>
+  <tr>
+    <td>2013</td>
+    <td>Fica, S. M., N. Tuttle, T. Novak, N. S. Li, J. Lu, P. Koodathingal, Q. Dai, J. P. Staley and J. A. Piccirilli </td>
+    <td>RNA catalyses nuclear pre-mRNA splicing.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>Demonstrate that RNA mediates catalysis within the spliceosome.</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/ 24196718" target="_blank"><b> Nature 503(7475): 229-234.</b></a></td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>Yan, C., J. Hang, R. Wan, M. Huang, C. C. Wong and Y. Shi </td>
+    <td>Structure of a yeast spliceosome at 3.6-angstrom resolution.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>S.p ILS, 3.6 Å<br /> &nbsp;&nbsp;The first atomic structure of the intact spliceosome</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26292707" target="_blank"><b> Science 349(6253): 1182-1191.</b></a></td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>Galej, W. P., M. E. Wilkinson, S. M. Fica, C. Oubridge, A. J. Newman and K. Nagai </td>
+    <td>Cryo-EM structure of the spliceosome immediately after branching.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>The resolution of tri-snRNP, a complex during splice assembly, was increased to 5.9 angstroms</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27459055" target="_blank"><b> Nature 537(7619): 197-201.</b></a></td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>Wan, R., C. Yan, R. Bai, G. Huang and Y. Shi </td>
+    <td>Structure of a yeast catalytic step I spliceosome at 3.4 A resolution.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>S.c C, 3.4 Å<br /> &nbsp;&nbsp;Active site after branching</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27445308" target="_blank"><b> Science 353(6302): 895-904.</b></a></td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>Wan, R., C. Yan, R. Bai, L. Wang, M. Huang, C. C. Wong and Y. Shi </td>
+    <td>The 3.8 A structure of the U4/U6.U5 tri-snRNP: Insights into spliceosome assembly and catalysis.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>U4/U6.U5 tri-snRNP，3.8Å</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26743623" target="_blank"><b> Science 351(6272): 466-475.</b></a></td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>Yan, C., R. Wan, R. Bai, G. Huang and Y. Shi </td>
+    <td>Structure of a yeast activated spliceosome at 3.5 A resolution.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>B act , 3.5 Å<br /> &nbsp;&nbsp;Catalytic center is formed</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27445306" target="_blank"><b> Science 353(6302): 904-911.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Yan, C., R. Wan, R. Bai, G. Huang and Y. Shi </td>
+    <td>Structure of a yeast step II catalytically activated spliceosome.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>S.c C*, 4.0 Å</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27980089" target="_blank"><b> Science 355(6321): 149-155.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Fica, S. M., C. Oubridge, W. P. Galej, M. E. Wilkinson, X. C. Bai, A. J. Newman and K. Nagai </td>
+    <td>Structure of a spliceosome remodelled for exon ligation.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>S.c C*, 3.8 Å</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28076345" target="_blank"><b> Nature 542(7641): 377-380.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Plaschka, C., P. C. Lin and K. Nagai </td>
+    <td>Structure of a pre-catalytic spliceosome.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>S.c B, 7.2 (3.7) Å<br /> &nbsp;&nbsp;</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28530653" target="_blank"><b> Nature 546(7660): 617-621.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Wan, R., C. Yan, R. Bai, J. Lei and Y. Shi </td>
+    <td>Structure of an Intron Lariat Spliceosome from Saccharomyces cerevisiae.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>S.c ILS, 3.5 Å</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28919079" target="_blank"><b> Cell 171(1): 120-132 e112.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Liu, S., X. Li, L. Zhang, J. Jiang, R. C. Hill, Y. Cui, K. C. Hansen, Z. H. Zhou and R. Zhao </td>
+    <td>Structure of the yeast spliceosomal postcatalytic P complex.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>S.c P, 3.3 Å</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/29146870" target="_blank"><b> Science 358(6368): 1278-1283.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Bai, R., C. Yan, R. Wan, J. Lei and Y. Shi </td>
+    <td>Structure of the Post-catalytic Spliceosome from Saccharomyces cerevisiae.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td> &nbsp;&nbsp;S.c P, 3.6 Å</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/29153833" target="_blank"><b> Cell 171(7): 1589-1598 e1588.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Bertram, K., D. E. Agafonov, O. Dybkov, D. Haselbach, M. N. Leelaram, C. L. Will, H. Urlaub, B. Kastner, R. Luhrmann and H. Stark </td>
+    <td>Cryo-EM Structure of a Pre-catalytic Human Spliceosome Primed for Activation.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>C*, 5.9 Å<br /> &nbsp;&nbsp;</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28781166" target="_blank"><b> Cell 170(4): 701-713 e711.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Zhang, X., C. Yan, J. Hang, L. I. Finci, J. Lei and Y. Shi </td>
+    <td>An Atomic Structure of the Human Spliceosome.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>C*, 3.8 Å<br /> &nbsp;&nbsp; The first atomic model of human spliceosom</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28502770" target="_blank"><b> Cell 169(5): 918-929 e914.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Bertram, K., D. E. Agafonov, W. T. Liu, O. Dybkov, C. L. Will, K. Hartmuth, H. Urlaub, B. Kastner, H. Stark and R. Luhrmann </td>
+    <td>Cryo-EM structure of a human spliceosome activated for step 2 of splicing.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>B, 9.9 (4.5) Å<br /> &nbsp;&nbsp;</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28076346" target="_blank"><b> Nature 542(7641): 318-323.</b></a></td>
+  </tr>
+  <tr>
+    <td>2018</td>
+    <td>Bai, R., R. Wan, C. Yan, J. Lei and Y. Shi </td>
+    <td>Structures of the fully assembled Saccharomyces cerevisiae spliceosome before activation.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>S.c pre–B, 3.3–4.6 Å<br /> &nbsp;&nbsp;S.c B, 3.9 Å</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/29794219" target="_blank"><b> Science 360(6396): 1423-1429.</b></a></td>
+  </tr>
+  <tr>
+    <td>2018</td>
+    <td>Plaschka, C., P. C. Lin, C. Charenton and K. Nagai </td>
+    <td>Prespliceosome structure provides insights into spliceosome assembly and regulation.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>S.c A, 4.9 (4.0) Å</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/29995849" target="_blank"><b> Nature 559(7714): 419-422.</b></a></td>
+  </tr>
+  <tr>
+    <td>2018</td>
+    <td>Zhan, X., C. Yan, X. Zhang, J. Lei and Y. Shi </td>
+    <td>Structure of a human catalytic step I spliceosome.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td> C, 4.1 Å<br /> &nbsp;&nbsp;</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/29301961" target="_blank"><b> Science 359(6375): 537-545.</b></a></td>
+  </tr>
+  <tr>
+    <td>2018</td>
+    <td>Haselbach, D., I. Komarov, D. E. Agafonov, K. Hartmuth, B. Graf, O. Dybkov, H. Urlaub, B. Kastner, R. Luhrmann and H. Stark </td>
+    <td>Structure and Conformational Dynamics of the Human Spliceosomal B(act) Complex.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td> Bact , 3.4 Å (core)<br /> &nbsp;&nbsp;</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/29361316" target="_blank"><b> Cell 172(3): 454-464 e411.</b></a></td>
+  </tr>
+  <tr>
+    <td>2018</td>
+    <td>Zhan, X., C. Yan, X. Zhang, J. Lei and Y. Shi </td>
+    <td>Structures of the human pre-catalytic spliceosome and its precursor spliceosome.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td> pre–B (5.7 Å) and B (3.8 Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30315277" target="_blank"><b> Cell Res 28(12): 1129-1140.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Wan, R., R. Bai, C. Yan, J. Lei and Y. Shi </td>
+    <td>Structures of the Catalytically Activated Yeast Spliceosome Reveal the Mechanism of Branching.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>S.c B*, 2.9–3.8 Å<br /> &nbsp;&nbsp;Four distinct structures on two different substrates</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30879786" target="_blank"><b> Cell 177(2): 339-351 e313.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Fica, S. M., C. Oubridge, M. E. Wilkinson, A. J. Newman and K. Nagai </td>
+    <td>A human postcatalytic spliceosome structure reveals essential roles of metazoan factors for exon ligation.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>P, 3.3 Å<br /> &nbsp;&nbsp;</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30705154" target="_blank"><b> Science 363(6428): 710-714.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Zhang, X., X. Zhan, C. Yan, W. Zhang, D. Liu, J. Lei and Y. Shi </td>
+    <td>Structures of the human spliceosomes before and after release of the ligated exon.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>P (3.0 Å) and ILS (2.9 Å)<br /> &nbsp;&nbsp;</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30728453" target="_blank"><b> Cell Res 29(4): 274-285.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Charenton, C., M. E. Wilkinson and K. Nagai </td>
+    <td>Mechanism of 5' splice site transfer for human spliceosome activation.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>pre–B, 3.3 Å <br /> &nbsp;&nbsp;Mechanism of 5' splice site transfer for human spliceosome activation</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30975767" target="_blank"><b> Science 364(6438): 362-367.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Wan, R., R. Bai, C. Yan, J. Lei and Y. Shi </td>
+    <td>Structures of the Catalytically Activated Yeast Spliceosome Reveal the Mechanism of Branching.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>Mechanism of Branching</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30879786" target="_blank"><b> Cell 177(2): 339-351 e313.</b></a></td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Zhang, Z., C. L. Will, K. Bertram, O. Dybkov, K. Hartmuth, D. E. Agafonov, R. Hofele, H. Urlaub, B. Kastner, R. Luhrmann and H. Stark </td>
+    <td>Molecular architecture of the human 17S U2 snRNP.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>The structure of 17s U2 snRNP was analyzed and a complete molecular model of 17s U2 snRNP was obtained</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32494006" target="_blank"><b> Nature 583(7815): 310-313.</b></a></td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Townsend, C., M. N. Leelaram, D. E. Agafonov, O. Dybkov, C. L. Will, K. Bertram, H. Urlaub, B. Kastner, H. Stark and R. Luhrmann </td>
+    <td>Mechanism of protein-guided folding of the active site U2/U6 RNA during spliceosome activation.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>Mechanism of protein-guided folding of the active site U2/U6 RNA during spliceosome activation</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33243851" target="_blank"><b> Science 370(6523).</b></a></td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>Bai, R., R. Wan, C. Yan, Q. Jia, J. Lei and Y. Shi </td>
+    <td>Mechanism of spliceosome remodeling by the ATPase/helicase Prp2 and its coactivator Spp2.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>Mechanism of spliceosome remodeling by the ATPase/helicase Prp2 and its coactivator Spp2</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33243853" target="_blank"><b> Science 371(6525).</b></a></td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>Tholen, J., M. Razew, F. Weis and W. P. Galej </td>
+    <td>Structural basis of branch site recognition by the human spliceosome.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>A series of high-resolution (2.0-2.2 Å) U2 snRNP structures were identified</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34822310" target="_blank"><b> Science 375(6576): 50-57.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Yan, C., R. Wan and Y. Shi </td>
+    <td>Molecular Mechanisms of pre-mRNA Splicing through Structural Biology of the Spliceosome.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>Review</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30602541" target="_blank"><b> Cold Spring Harb Perspect Biol 11(1).</b></a></td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Wan, R., R. Bai, X. Zhan and Y. Shi </td>
+    <td>How Is Precursor Messenger RNA Spliced by the Spliceosome?</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>Review</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31815536" target="_blank"><b> Annu Rev Biochem 89: 333-358.</b></a></td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Wilkinson, M. E., C. Charenton and K. Nagai </td>
+    <td>RNA Splicing by the Spliceosome.</td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
+    <td>Review</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31794245" target="_blank"><b> Annu Rev Biochem 89: 359-388.</b></a></td>
+  </tr>
+  <tr>
+    <td>1975</td>
+    <td>Fox, G. E. and C. R. Woese </td>
+    <td>5S RNA secondary structure.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Secondary structure of 5S RNA</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/808733" target="_blank"><b> Nature 256(5517): 505-7.</b></a></td>
+  </tr>
+  <tr>
+    <td>1980</td>
+    <td>Woese, C. R., L. J. Magrum, R. Gupta, R. B. Siegel, D. A. Stahl, J. Kop, N. Crawford, J. Brosius, R. Gutell, J. J. Hogan and H. F. Noller </td>
+    <td>Secondary structure model for bacterial 16S ribosomal RNA: phylogenetic, enzymatic and chemical evidence.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>A secondary structure model of bacterial 16S rRNA</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/6159576" target="_blank"><b> Nucleic Acids Res 8 (10): 2275-93.</b></a></td>
+  </tr>
+  <tr>
+    <td>1981</td>
+    <td>Noller, H. F., J. Kop, V. Wheaton, J. Brosius, R. R. Gutell, A. M. Kopylov, F. Dohme, W. Herr, D. A. Stahl, R. Gupta and C. R. Waese </td>
+    <td>Secondary structure model for 23S ribosomal RNA.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Construction of 23S ribosomal RNA secondary structure model by comparing sequences</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/7031608" target="_blank"><b> Nucleic Acids Res 9 (22): 6167-89.</b></a></td>
+  </tr>
+  <tr>
+    <td>1991</td>
+    <td>von Bohlen, K., I. Makowski, H. A. Hansen, H. Bartels, Z. Berkovitch-Yellin, A. Zaytzev-Bashan, S. Meyer, C. Paulke, F. Franceschi and A. Yonath </td>
+    <td>Characterization and preliminary attempts for derivatization of crystals of large ribosomal subunits from Haloarcula marismortui diffracting to 3 A resolution.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Preliminary analysis of the structure of the H. marismortui ribosomal 50 S subunit</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/1942063" target="_blank"><b> J Mol Biol 222 (1): 11-5.</b></a></td>
+  </tr>
+  <tr>
+    <td>1993</td>
+    <td>Szewczak, A. A., P. B. Moore, Y. L. Chang and I. G. Wool </td>
+    <td>The conformation of the sarcin/ricin loop from 28S ribosomal RNA.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>NMR structure of sarcin/ricin loop in 28s rRNA</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/8415744" target="_blank"><b> Proc Natl Acad Sci U S A 90 (20): 9581-5.</b></a></td>
+  </tr>
+  <tr>
+    <td>1995</td>
+    <td>Samaha, R. R., R. Green and H. F. Noller </td>
+    <td>A base pair between tRNA and 23S rRNA in the peptidyl transferase centre of the ribosome.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>G2252 and G2251 of the 23S rRNA P-loop are important</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/7566085" target="_blank"><b> Nature 377 (6547): 309-14.</b></a></td>
+  </tr>
+  <tr>
+    <td>1995</td>
+    <td>Frank, J., J. Zhu, P. Penczek, Y. Li, S. Srivastava, A. Verschoor, M. Radermacher, R. Grassucci, R. K. Lata and R. K. Agrawal </td>
+    <td>A model of protein synthesis based on cryo-electron microscopy of the E. coli ribosome.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>CryoEM structure of E. coli ribosomes (25 Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/7630422" target="_blank"><b> Nature 376 (6539): 441-4.</b></a></td>
+  </tr>
+  <tr>
+    <td>1998</td>
+    <td>Ban, N., B. Freeborn, P. Nissen, P. Penczek, R. A. Grassucci, R. Sweet, J. Frank, P. B. Moore and T. A. Steitz </td>
+    <td>A 9 A resolution X-ray crystallographic map of the large ribosomal subunit.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>9 Å resolution electron density map of the H. marismortui ribosome 50S subunit</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/9657144" target="_blank"><b> Cell 93 (7): 1105-15.</b></a></td>
+  </tr>
+  <tr>
+    <td>1999</td>
+    <td>Kim, D. F. and R. Green </td>
+    <td>Base-pairing between 23S rRNA and tRNA in the ribosomal A site.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>G2553 is important</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10619032" target="_blank"><b> Mol Cell 4(5): 859-64.</b></a></td>
+  </tr>
+  <tr>
+    <td>1999</td>
+    <td>Clemons, W. J., J. L. May, B. T. Wimberly, J. P. McCutcheon, M. S. Capel and V. Ramakrishnan </td>
+    <td>Structure of a bacterial 30S ribosomal subunit at 5.5 A resolution.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Structure of the ribosomal 30S subunit of T.thermophilus (5.5 Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10476960" target="_blank"><b> Nature 400 (6747): 833-40.</b></a></td>
+  </tr>
+  <tr>
+    <td>1999</td>
+    <td>Tocilj, A., F. Schlunzen, D. Janell, M. Gluhmann, H. A. Hansen, J. Harms, A. Bashan, H. Bartels, I. Agmon, F. Franceschi and A. Yonath </td>
+    <td>The small ribosomal subunit from Thermus thermophilus at 4.5 A resolution: pattern fittings and the identification of a functional site.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Structure of the ribosomal 30S subunit of T.thermophilus (4.5 Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10588692" target="_blank"><b> Proc Natl Acad Sci U S A 96 (25): 14252-7.</b></a></td>
+  </tr>
+  <tr>
+    <td>1999</td>
+    <td>Cate, J. H., M. M. Yusupov, G. Z. Yusupova, T. N. Earnest and H. F. Noller </td>
+    <td>X-ray crystal structures of 70S ribosome functional complexes.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Crystal structures of the 70S ribosome functional complex (7.8 Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10497122" target="_blank"><b> Science 285 (5436): 2095-104.</b></a></td>
+  </tr>
+  <tr>
+    <td>2000</td>
+    <td>Ban, N., P. Nissen, J. Hansen, P. B. Moore and T. A. Steitz </td>
+    <td>The complete atomic structure of the large ribosomal subunit at 2.4 A resolution.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Crystal structure of the large ribosomal subunit of H. marismortui (2.4 Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10937989" target="_blank"><b> Science 289 (5481): 905-20</b></a></td>
+  </tr>
+  <tr>
+    <td>2000</td>
+    <td>Nissen, P., J. Hansen, N. Ban, P. B. Moore and T. A. Steitz </td>
+    <td>The structural basis of ribosome activity in peptide bond synthesis.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>The ribosome is a ribozyme </td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10937990" target="_blank"><b> Science 289 (5481): 920-30.</b></a></td>
+  </tr>
+  <tr>
+    <td>2000</td>
+    <td>Cech, T. R. </td>
+    <td>Structural biology. The ribosome is a ribozyme.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>The ribosome is a ribozyme </td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10960319" target="_blank"><b> Science 289(5481): 878-9.</b></a></td>
+  </tr>
+  <tr>
+    <td>2000</td>
+    <td>Muth, G. W., L. Ortoleva-Donnelly and S. A. Strobel </td>
+    <td>A single adenosine with a neutral pKa in the ribosomal peptidyl transferase center.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Results are consistent with a mechanism wherein the nucleotide base of A2451 serves as a general acid base during peptide bond formation</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10937997" target="_blank"><b> Science 289 (5481): 947-50.</b></a></td>
+  </tr>
+  <tr>
+    <td>2000</td>
+    <td>Schluenzen, F., A. Tocilj, R. Zarivach, J. Harms, M. Gluehmann, D. Janell, A. Bashan, H. Bartels, I. Agmon, F. Franceschi and A. Yonath </td>
+    <td>Structure of functionally activated small ribosomal subunit at 3.3 angstroms resolution.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Structure of the functionally activated small ribosomal subunit of Thermus thermophilus (3.3Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/11007480" target="_blank"><b> Cell 102 (5): 615-23.</b></a></td>
+  </tr>
+  <tr>
+    <td>2000</td>
+    <td>Wimberly, B. T., D. E. Brodersen, W. M. Clemons, Jr., R. J. Morgan-Warren, A. P. Carter, C. Vonrhein, T. Hartsch and V. Ramakrishnan </td>
+    <td>Structure of the 30S ribosomal subunit.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Crystal structure of the 30S subunit of Thermus thermophilus (3 Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/11014182" target="_blank"><b> Nature 407(6802): 327-339.</b></a></td>
+  </tr>
+  <tr>
+    <td>2001</td>
+    <td>Yusupov, M. M., G. Z. Yusupova, A. Baucom, K. Lieberman, T. N. Earnest, J. H. Cate and H. F. Noller </td>
+    <td>Crystal structure of the ribosome at 5.5 A resolution.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Crystal structure of the complete 70S ribosome of Thermus thermophilus (5.5 Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/11283358" target="_blank"><b> Science 292 (5518): 883-96.</b></a></td>
+  </tr>
+  <tr>
+    <td>2003</td>
+    <td>Bashan, A., I. Agmon, R. Zarivach, F. Schluenzen, J. Harms, R. Berisio, H. Bartels, F. Franceschi, T. Auerbach, H. A. Hansen, E. Kossoy, M. Kessler and A. Yonath </td>
+    <td>Structural basis of the ribosomal machinery for peptide bond formation, translocation, and nascent chain progression.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>A2602, U2585 are important</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/12535524" target="_blank"><b> Mol Cell 11 (1): 91-102.</b></a></td>
+  </tr>
+  <tr>
+    <td>2005</td>
+    <td>Schuwirth, B. S., M. A. Borovinskaya, C. W. Hau, W. Zhang, A. Vila-Sanjurjo, J. M. Holton and J. H. Cate </td>
+    <td>Structures of the bacterial ribosome at 3.5 A resolution.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Structure of the 70s ribosome of E. coli (3.5Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16272117" target="_blank"><b> Science 310 (5749): 827-34.</b></a></td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>Rabl, J., M. Leibundgut, S. F. Ataide, A. Haag and N. Ban </td>
+    <td>Crystal structure of the eukaryotic 40S ribosomal subunit in complex with initiation factor 1.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Crystal structure of the 40S ribosomal subunit of <em>Tetrahymena</em> thermophila in complex with eIF1 (3.9 Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/21205638" target="_blank"><b> Science 331 (6018): 730-6.</b></a></td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>Klinge, S., F. Voigts-Hoffmann, M. Leibundgut, S. Arpagaus and N. Ban </td>
+    <td>Crystal structure of the eukaryotic 60S ribosomal subunit in complex with initiation factor 6.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Crystal structure of the 60S ribosomal subunit of <em>Tetrahymena</em> thermophila in complex with eIF6 (3.5 Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/22052974" target="_blank"><b> Science 334 (6058): 941-8.</b></a></td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>Ben-Shem, A., D. L. N. Garreau, S. Melnikov, L. Jenner, G. Yusupova and M. Yusupov </td>
+    <td>The structure of the eukaryotic ribosome at 3.0 A resolution.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Crystal structure of the yeast 80S ribosome (3.0 Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/22096102" target="_blank"><b> Science 334 (6062): 1524-9.</b></a></td>
+  </tr>
+  <tr>
+    <td>2013</td>
+    <td>Hashem, Y., A. des Georges, J. Fu, S. N. Buss, F. Jossinet, A. Jobe, Q. Zhang, H. Y. Liao, R. A. Grassucci, C. Bajaj, E. Westhof, S. Madison-Antenucci and J. Frank </td>
+    <td>High-resolution cryo-electron microscopy structure of the Trypanosoma brucei ribosome.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>High-resolution Cryo EM structure of the Trypanosoma brucei ribosome</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/23395961" target="_blank"><b> Nature 494 (7437): 385-9.</b></a></td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>Wong, W., X. C. Bai, A. Brown, I. S. Fernandez, E. Hanssen, M. Condron, Y. H. Tan, J. Baum and S. H. Scheres </td>
+    <td>Cryo-EM structure of the Plasmodium falciparum 80S ribosome bound to the anti-protozoan drug emetine.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Cryo-EM structure of the 80S ribosome of Plasmodium falciparum (3.2 Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24913268" target="_blank"><b> Elife 3.</b></a></td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>Amunts, A., A. Brown, X. C. Bai, J. L. Llacer, T. Hussain, P. Emsley, F. Long, G. Murshudov, S. Scheres and V. Ramakrishnan </td>
+    <td>Structure of the yeast mitochondrial large ribosomal subunit.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Structure of the yeast mitochondrial large ribosomal subunit (3.2 Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24675956" target="_blank"><b> Science 343 (6178): 1485-1489.</b></a></td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>Khatter, H., A. G. Myasnikov, S. K. Natchiar and B. P. Klaholz </td>
+    <td>Structure of the human 80S ribosome.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Structure of the human 80S ribosome  (3.6 Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25901680" target="_blank"><b> Nature 520 (7549): 640-5.</b></a></td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>Behrmann, E., J. Loerke, T. V. Budkevich, K. Yamamoto, A. Schmidt, P. A. Penczek, M. R. Vos, J. Burger, T. Mielke, P. Scheerer and C. M. Spahn </td>
+    <td>Structural snapshots of actively translating human ribosomes.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Structural snapshots of actively translating human ribosomes</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25957688" target="_blank"><b> Cell 161 (4): 845-57.</b></a></td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>Shalev-Benami, M., Y. Zhang, D. Matzov, Y. Halfon, A. Zackay, H. Rozenberg, E. Zimmerman, A. Bashan, C. L. Jaffe, A. Yonath and G. Skiniotis </td>
+    <td>2.8-A Cryo-EM Structure of the Large Ribosomal Subunit from the Eukaryotic Parasite Leishmania.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Cryo-EM structure of the 60s ribosomal subunit of Leishmania (2.8Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27373148" target="_blank"><b> Cell Rep 16 (2): 288-294.</b></a></td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>Zhang, X., M. Lai, W. Chang, I. Yu, K. Ding, J. Mrazek, H. L. Ng, O. O. Yang, D. A. Maslov and Z. H. Zhou </td>
+    <td>Structures and stabilization of kinetoplastid-specific split rRNAs revealed by comparing leishmanial and human ribosomes.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Structure of the 80s ribosome of Leishmania (2.9Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27752045" target="_blank"><b> Nat Commun 7: 13223.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Liu, Z., C. Gutierrez-Vargas, J. Wei, R. A. Grassucci, M. Sun, N. Espina, S. Madison-Antenucci, L. Tong and J. Frank </td>
+    <td>Determination of the ribosome structure to a resolution of 2.5 A by single-particle cryo-EM.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Cryo-EM structure of the 60S ribosomal subunit of Plasmodium cruzi (2.5 Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27750394" target="_blank"><b> Protein Sci 26 (1): 82-92.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Wong, W., X. C. Bai, B. E. Sleebs, T. Triglia, A. Brown, J. K. Thompson, K. E. Jackson, E. Hanssen, D. S. Marapana, I. S. Fernandez, S. A. Ralph, A. F. Cowman, S. Scheres and J. Baum </td>
+    <td>Mefloquine targets the Plasmodium falciparum 80S ribosome to inhibit protein synthesis.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Cryo-EM structure of the 80S ribosome of Plasmodium falciparum (3.2 Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28288098" target="_blank"><b> Nat Microbiol 2: 17031.</b></a></td>
+  </tr>
+  <tr>
+    <td>2018</td>
+    <td>Kummer, E., M. Leibundgut, O. Rackham, R. G. Lee, D. Boehringer, A. Filipovska and N. Ban </td>
+    <td>Unique features of mammalian mitochondrial translation initiation revealed by cryo-EM.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Cryo-EM structure of the complete translation initiation complex from mammalian mitochondria (3.2 Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30089917" target="_blank"><b> Nature 560 (7717): 263-267.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Kaledhonkar, S., Z. Fu, K. Caban, W. Li, B. Chen, M. Sun, R. J. Gonzalez and J. Frank </td>
+    <td>Late steps in bacterial translation initiation visualized using time-resolved cryo-EM.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Late steps in bacterial translation initiation visualized using time-resolved cryo-EM</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31108498" target="_blank"><b> Nature 570 (7761): 400-404.</b></a></td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Waltz, F., H. Soufari, A. Bochler, P. Giege and Y. Hashem </td>
+    <td>Cryo-EM structure of the RNA-rich plant mitochondrial ribosome.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Cryo-EM structure of the RNA-rich plant mitochondrial ribosome</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32251374" target="_blank"><b> Nat Plants 6 (4): 377-383.</b></a></td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Loveland, A. B., G. Demo and A. A. Korostelev </td>
+    <td>Cryo-EM of elongating ribosome with EF-Tu•GTP elucidates tRNA proofreading.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Cryo-EM of elongating ribosome with EF-Tu•GTP elucidates tRNA proofreading</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32612237" target="_blank"><b> Nature 584 (7822): 640-645.</b></a></td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Aibara, S., V. Singh, A. Modelska and A. Amunts </td>
+    <td>Structural basis of mitochondrial translation.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Structural basis of mitochondrial translation (3.0 Å)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32812867" target="_blank"><b> Elife 9.</b></a></td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Watson, Z. L., F. R. Ward, R. Meheust, O. Ad, A. Schepartz, J. F. Banfield and J. H. Cate </td>
+    <td>Structure of the bacterial ribosome at 2 A resolution.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Structure of the bacterial ribosome at 2 Å resolution</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32924932" target="_blank"><b> Elife 9.</b></a></td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>Kummer, E., K. N. Schubert, T. Schoenhut, A. Scaiola and N. Ban </td>
+    <td>Structural basis of translation termination, rescue, and recycling in mammalian mitochondria.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Structural basis of translation termination, rescue, and recycling in mammalian mitochondria</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33878294" target="_blank"><b> Mol Cell 81 (12): 2566-2582.e6.</b></a></td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>Itoh, Y., A. Khawaja, I. Laptev, M. Cipullo, I. Atanassov, P. Sergiev, J. Rorbach and A. Amunts </td>
+    <td>Mechanism of mitoribosomal small subunit biogenesis and preinitiation.</td>
+    <td><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
+    <td>Mechanism of mitoribosomal small subunit biogenesis and preinitiation</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/35676484" target="_blank"><b> Nature 606 (7914): 603-608.</b></a></td>
+  </tr>
+  </table><br /><br />
+</div></body></html>
+:ET
