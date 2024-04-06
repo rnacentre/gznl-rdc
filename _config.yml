@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
 # baseurl: "gznl-rdc"
 # url: "https://www.rnacentre.org/"
 baseurl: ""
-url: "https://www.gznl.org/"
+url: "https://www.gznl.org"
 
 include:
   - .htaccess
