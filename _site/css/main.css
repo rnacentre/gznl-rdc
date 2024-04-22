@@ -2634,4 +2634,10 @@ pubtit { font-weight: bold; }
 /* Add this CSS to override Bootstrap's default link styles */
 .nav-link-1 { color: white; /* Set default font color to white */ }
 
+/* This sets the container for the image */
+.full-width-image { width: 100%; /* Full width */ height: 300px; /* Fixed height */ overflow: hidden; /* Hides overflow to prevent unwanted scrollbars */ border-radius: 0; margin-top: 0; margin-bottom: 0; }
+
+/* This sets the style for the image */
+.full-width-image img { width: 100%; /* Full width of the container */ height: 100%; /* Full height of the container */ object-fit: cover; /* Maintains aspect ratio while filling the space */ object-position: center; /* Centers the image if it needs to be cropped */ }
+
 /*# sourceMappingURL=main.css.map */
