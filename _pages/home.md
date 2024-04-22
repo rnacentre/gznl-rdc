@@ -71,7 +71,7 @@ permalink: /
 
 <div class="col-lg-3 text-center">
 <img src="{{ site.url }}{{ site.baseurl }}/images/database/aptamer.jpg" style='height: 200px;'/>
-<p class="text-center" style='margin-top: 16px;'><b style='font-size:24px;'><a href='https://ribocentre-aptamer.github.io/docs/ATP-aptamer/'>Ribocentre-aptamer (Aptamers)</a></b></p>
+<p class="text-center" style='margin-top: 16px;'><b style='font-size:24px;'><a href='https://aptamer.ribocentre.org'>Ribocentre-aptamer (Aptamers)</a></b></p>
 </div><!-- /.col-lg-3 -->
 
 </div><!-- /.row -->
